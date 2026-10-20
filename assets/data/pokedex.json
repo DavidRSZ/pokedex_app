@@ -1,0 +1,9227 @@
+[
+ {
+  "dex": 1,
+  "name_en": "Bulbasaur",
+  "name_es": "Bulbasaur",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/1.png"
+ },
+ {
+  "dex": 2,
+  "name_en": "Ivysaur",
+  "name_es": "Ivysaur",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/2.png"
+ },
+ {
+  "dex": 3,
+  "name_en": "Venusaur",
+  "name_es": "Venusaur",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/3.png"
+ },
+ {
+  "dex": 4,
+  "name_en": "Charmander",
+  "name_es": "Charmander",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/4.png"
+ },
+ {
+  "dex": 5,
+  "name_en": "Charmeleon",
+  "name_es": "Charmeleon",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/5.png"
+ },
+ {
+  "dex": 6,
+  "name_en": "Charizard",
+  "name_es": "Charizard",
+  "generation": 1,
+  "type1": "fire",
+  "type2": "flying",
+  "static_png": "sprites/static/6.png"
+ },
+ {
+  "dex": 7,
+  "name_en": "Squirtle",
+  "name_es": "Squirtle",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/7.png"
+ },
+ {
+  "dex": 8,
+  "name_en": "Wartortle",
+  "name_es": "Wartortle",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/8.png"
+ },
+ {
+  "dex": 9,
+  "name_en": "Blastoise",
+  "name_es": "Blastoise",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/9.png"
+ },
+ {
+  "dex": 10,
+  "name_en": "Caterpie",
+  "name_es": "Caterpie",
+  "generation": 1,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/10.png"
+ },
+ {
+  "dex": 11,
+  "name_en": "Metapod",
+  "name_es": "Metapod",
+  "generation": 1,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/11.png"
+ },
+ {
+  "dex": 12,
+  "name_en": "Butterfree",
+  "name_es": "Butterfree",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/12.png"
+ },
+ {
+  "dex": 13,
+  "name_en": "Weedle",
+  "name_es": "Weedle",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/13.png"
+ },
+ {
+  "dex": 14,
+  "name_en": "Kakuna",
+  "name_es": "Kakuna",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/14.png"
+ },
+ {
+  "dex": 15,
+  "name_en": "Beedrill",
+  "name_es": "Beedrill",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/15.png"
+ },
+ {
+  "dex": 16,
+  "name_en": "Pidgey",
+  "name_es": "Pidgey",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/16.png"
+ },
+ {
+  "dex": 17,
+  "name_en": "Pidgeotto",
+  "name_es": "Pidgeotto",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/17.png"
+ },
+ {
+  "dex": 18,
+  "name_en": "Pidgeot",
+  "name_es": "Pidgeot",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/18.png"
+ },
+ {
+  "dex": 19,
+  "name_en": "Rattata",
+  "name_es": "Rattata",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/19.png"
+ },
+ {
+  "dex": 20,
+  "name_en": "Raticate",
+  "name_es": "Raticate",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/20.png"
+ },
+ {
+  "dex": 21,
+  "name_en": "Spearow",
+  "name_es": "Spearow",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/21.png"
+ },
+ {
+  "dex": 22,
+  "name_en": "Fearow",
+  "name_es": "Fearow",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/22.png"
+ },
+ {
+  "dex": 23,
+  "name_en": "Ekans",
+  "name_es": "Ekans",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/23.png"
+ },
+ {
+  "dex": 24,
+  "name_en": "Arbok",
+  "name_es": "Arbok",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/24.png"
+ },
+ {
+  "dex": 25,
+  "name_en": "Pikachu",
+  "name_es": "Pikachu",
+  "generation": 1,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/25.png"
+ },
+ {
+  "dex": 26,
+  "name_en": "Raichu",
+  "name_es": "Raichu",
+  "generation": 1,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/26.png"
+ },
+ {
+  "dex": 27,
+  "name_en": "Sandshrew",
+  "name_es": "Sandshrew",
+  "generation": 1,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/27.png"
+ },
+ {
+  "dex": 28,
+  "name_en": "Sandslash",
+  "name_es": "Sandslash",
+  "generation": 1,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/28.png"
+ },
+ {
+  "dex": 29,
+  "name_en": "Nidoran♀",
+  "name_es": "Nidoran♀",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/29.png"
+ },
+ {
+  "dex": 30,
+  "name_en": "Nidorina",
+  "name_es": "Nidorina",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/30.png"
+ },
+ {
+  "dex": 31,
+  "name_en": "Nidoqueen",
+  "name_es": "Nidoqueen",
+  "generation": 1,
+  "type1": "poison",
+  "type2": "ground",
+  "static_png": "sprites/static/31.png"
+ },
+ {
+  "dex": 32,
+  "name_en": "Nidoran♂",
+  "name_es": "Nidoran♂",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/32.png"
+ },
+ {
+  "dex": 33,
+  "name_en": "Nidorino",
+  "name_es": "Nidorino",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/33.png"
+ },
+ {
+  "dex": 34,
+  "name_en": "Nidoking",
+  "name_es": "Nidoking",
+  "generation": 1,
+  "type1": "poison",
+  "type2": "ground",
+  "static_png": "sprites/static/34.png"
+ },
+ {
+  "dex": 35,
+  "name_en": "Clefairy",
+  "name_es": "Clefairy",
+  "generation": 1,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/35.png"
+ },
+ {
+  "dex": 36,
+  "name_en": "Clefable",
+  "name_es": "Clefable",
+  "generation": 1,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/36.png"
+ },
+ {
+  "dex": 37,
+  "name_en": "Vulpix",
+  "name_es": "Vulpix",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/37.png"
+ },
+ {
+  "dex": 38,
+  "name_en": "Ninetales",
+  "name_es": "Ninetales",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/38.png"
+ },
+ {
+  "dex": 39,
+  "name_en": "Jigglypuff",
+  "name_es": "Jigglypuff",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "fairy",
+  "static_png": "sprites/static/39.png"
+ },
+ {
+  "dex": 40,
+  "name_en": "Wigglytuff",
+  "name_es": "Wigglytuff",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "fairy",
+  "static_png": "sprites/static/40.png"
+ },
+ {
+  "dex": 41,
+  "name_en": "Zubat",
+  "name_es": "Zubat",
+  "generation": 1,
+  "type1": "poison",
+  "type2": "flying",
+  "static_png": "sprites/static/41.png"
+ },
+ {
+  "dex": 42,
+  "name_en": "Golbat",
+  "name_es": "Golbat",
+  "generation": 1,
+  "type1": "poison",
+  "type2": "flying",
+  "static_png": "sprites/static/42.png"
+ },
+ {
+  "dex": 43,
+  "name_en": "Oddish",
+  "name_es": "Oddish",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/43.png"
+ },
+ {
+  "dex": 44,
+  "name_en": "Gloom",
+  "name_es": "Gloom",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/44.png"
+ },
+ {
+  "dex": 45,
+  "name_en": "Vileplume",
+  "name_es": "Vileplume",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/45.png"
+ },
+ {
+  "dex": 46,
+  "name_en": "Paras",
+  "name_es": "Paras",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "grass",
+  "static_png": "sprites/static/46.png"
+ },
+ {
+  "dex": 47,
+  "name_en": "Parasect",
+  "name_es": "Parasect",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "grass",
+  "static_png": "sprites/static/47.png"
+ },
+ {
+  "dex": 48,
+  "name_en": "Venonat",
+  "name_es": "Venonat",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/48.png"
+ },
+ {
+  "dex": 49,
+  "name_en": "Venomoth",
+  "name_es": "Venomoth",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/49.png"
+ },
+ {
+  "dex": 50,
+  "name_en": "Diglett",
+  "name_es": "Diglett",
+  "generation": 1,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/50.png"
+ },
+ {
+  "dex": 51,
+  "name_en": "Dugtrio",
+  "name_es": "Dugtrio",
+  "generation": 1,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/51.png"
+ },
+ {
+  "dex": 52,
+  "name_en": "Meowth",
+  "name_es": "Meowth",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/52.png"
+ },
+ {
+  "dex": 53,
+  "name_en": "Persian",
+  "name_es": "Persian",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/53.png"
+ },
+ {
+  "dex": 54,
+  "name_en": "Psyduck",
+  "name_es": "Psyduck",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/54.png"
+ },
+ {
+  "dex": 55,
+  "name_en": "Golduck",
+  "name_es": "Golduck",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/55.png"
+ },
+ {
+  "dex": 56,
+  "name_en": "Mankey",
+  "name_es": "Mankey",
+  "generation": 1,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/56.png"
+ },
+ {
+  "dex": 57,
+  "name_en": "Primeape",
+  "name_es": "Primeape",
+  "generation": 1,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/57.png"
+ },
+ {
+  "dex": 58,
+  "name_en": "Growlithe",
+  "name_es": "Growlithe",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/58.png"
+ },
+ {
+  "dex": 59,
+  "name_en": "Arcanine",
+  "name_es": "Arcanine",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/59.png"
+ },
+ {
+  "dex": 60,
+  "name_en": "Poliwag",
+  "name_es": "Poliwag",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/60.png"
+ },
+ {
+  "dex": 61,
+  "name_en": "Poliwhirl",
+  "name_es": "Poliwhirl",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/61.png"
+ },
+ {
+  "dex": 62,
+  "name_en": "Poliwrath",
+  "name_es": "Poliwrath",
+  "generation": 1,
+  "type1": "water",
+  "type2": "fighting",
+  "static_png": "sprites/static/62.png"
+ },
+ {
+  "dex": 63,
+  "name_en": "Abra",
+  "name_es": "Abra",
+  "generation": 1,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/63.png"
+ },
+ {
+  "dex": 64,
+  "name_en": "Kadabra",
+  "name_es": "Kadabra",
+  "generation": 1,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/64.png"
+ },
+ {
+  "dex": 65,
+  "name_en": "Alakazam",
+  "name_es": "Alakazam",
+  "generation": 1,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/65.png"
+ },
+ {
+  "dex": 66,
+  "name_en": "Machop",
+  "name_es": "Machop",
+  "generation": 1,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/66.png"
+ },
+ {
+  "dex": 67,
+  "name_en": "Machoke",
+  "name_es": "Machoke",
+  "generation": 1,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/67.png"
+ },
+ {
+  "dex": 68,
+  "name_en": "Machamp",
+  "name_es": "Machamp",
+  "generation": 1,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/68.png"
+ },
+ {
+  "dex": 69,
+  "name_en": "Bellsprout",
+  "name_es": "Bellsprout",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/69.png"
+ },
+ {
+  "dex": 70,
+  "name_en": "Weepinbell",
+  "name_es": "Weepinbell",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/70.png"
+ },
+ {
+  "dex": 71,
+  "name_en": "Victreebel",
+  "name_es": "Victreebel",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/71.png"
+ },
+ {
+  "dex": 72,
+  "name_en": "Tentacool",
+  "name_es": "Tentacool",
+  "generation": 1,
+  "type1": "water",
+  "type2": "poison",
+  "static_png": "sprites/static/72.png"
+ },
+ {
+  "dex": 73,
+  "name_en": "Tentacruel",
+  "name_es": "Tentacruel",
+  "generation": 1,
+  "type1": "water",
+  "type2": "poison",
+  "static_png": "sprites/static/73.png"
+ },
+ {
+  "dex": 74,
+  "name_en": "Geodude",
+  "name_es": "Geodude",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "ground",
+  "static_png": "sprites/static/74.png"
+ },
+ {
+  "dex": 75,
+  "name_en": "Graveler",
+  "name_es": "Graveler",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "ground",
+  "static_png": "sprites/static/75.png"
+ },
+ {
+  "dex": 76,
+  "name_en": "Golem",
+  "name_es": "Golem",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "ground",
+  "static_png": "sprites/static/76.png"
+ },
+ {
+  "dex": 77,
+  "name_en": "Ponyta",
+  "name_es": "Ponyta",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/77.png"
+ },
+ {
+  "dex": 78,
+  "name_en": "Rapidash",
+  "name_es": "Rapidash",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/78.png"
+ },
+ {
+  "dex": 79,
+  "name_en": "Slowpoke",
+  "name_es": "Slowpoke",
+  "generation": 1,
+  "type1": "water",
+  "type2": "psychic",
+  "static_png": "sprites/static/79.png"
+ },
+ {
+  "dex": 80,
+  "name_en": "Slowbro",
+  "name_es": "Slowbro",
+  "generation": 1,
+  "type1": "water",
+  "type2": "psychic",
+  "static_png": "sprites/static/80.png"
+ },
+ {
+  "dex": 81,
+  "name_en": "Magnemite",
+  "name_es": "Magnemite",
+  "generation": 1,
+  "type1": "electric",
+  "type2": "steel",
+  "static_png": "sprites/static/81.png"
+ },
+ {
+  "dex": 82,
+  "name_en": "Magneton",
+  "name_es": "Magneton",
+  "generation": 1,
+  "type1": "electric",
+  "type2": "steel",
+  "static_png": "sprites/static/82.png"
+ },
+ {
+  "dex": 83,
+  "name_en": "Farfetch’d",
+  "name_es": "Farfetch’d",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/83.png"
+ },
+ {
+  "dex": 84,
+  "name_en": "Doduo",
+  "name_es": "Doduo",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/84.png"
+ },
+ {
+  "dex": 85,
+  "name_en": "Dodrio",
+  "name_es": "Dodrio",
+  "generation": 1,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/85.png"
+ },
+ {
+  "dex": 86,
+  "name_en": "Seel",
+  "name_es": "Seel",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/86.png"
+ },
+ {
+  "dex": 87,
+  "name_en": "Dewgong",
+  "name_es": "Dewgong",
+  "generation": 1,
+  "type1": "water",
+  "type2": "ice",
+  "static_png": "sprites/static/87.png"
+ },
+ {
+  "dex": 88,
+  "name_en": "Grimer",
+  "name_es": "Grimer",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/88.png"
+ },
+ {
+  "dex": 89,
+  "name_en": "Muk",
+  "name_es": "Muk",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/89.png"
+ },
+ {
+  "dex": 90,
+  "name_en": "Shellder",
+  "name_es": "Shellder",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/90.png"
+ },
+ {
+  "dex": 91,
+  "name_en": "Cloyster",
+  "name_es": "Cloyster",
+  "generation": 1,
+  "type1": "water",
+  "type2": "ice",
+  "static_png": "sprites/static/91.png"
+ },
+ {
+  "dex": 92,
+  "name_en": "Gastly",
+  "name_es": "Gastly",
+  "generation": 1,
+  "type1": "ghost",
+  "type2": "poison",
+  "static_png": "sprites/static/92.png"
+ },
+ {
+  "dex": 93,
+  "name_en": "Haunter",
+  "name_es": "Haunter",
+  "generation": 1,
+  "type1": "ghost",
+  "type2": "poison",
+  "static_png": "sprites/static/93.png"
+ },
+ {
+  "dex": 94,
+  "name_en": "Gengar",
+  "name_es": "Gengar",
+  "generation": 1,
+  "type1": "ghost",
+  "type2": "poison",
+  "static_png": "sprites/static/94.png"
+ },
+ {
+  "dex": 95,
+  "name_en": "Onix",
+  "name_es": "Onix",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "ground",
+  "static_png": "sprites/static/95.png"
+ },
+ {
+  "dex": 96,
+  "name_en": "Drowzee",
+  "name_es": "Drowzee",
+  "generation": 1,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/96.png"
+ },
+ {
+  "dex": 97,
+  "name_en": "Hypno",
+  "name_es": "Hypno",
+  "generation": 1,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/97.png"
+ },
+ {
+  "dex": 98,
+  "name_en": "Krabby",
+  "name_es": "Krabby",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/98.png"
+ },
+ {
+  "dex": 99,
+  "name_en": "Kingler",
+  "name_es": "Kingler",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/99.png"
+ },
+ {
+  "dex": 100,
+  "name_en": "Voltorb",
+  "name_es": "Voltorb",
+  "generation": 1,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/100.png"
+ },
+ {
+  "dex": 101,
+  "name_en": "Electrode",
+  "name_es": "Electrode",
+  "generation": 1,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/101.png"
+ },
+ {
+  "dex": 102,
+  "name_en": "Exeggcute",
+  "name_es": "Exeggcute",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "psychic",
+  "static_png": "sprites/static/102.png"
+ },
+ {
+  "dex": 103,
+  "name_en": "Exeggutor",
+  "name_es": "Exeggutor",
+  "generation": 1,
+  "type1": "grass",
+  "type2": "psychic",
+  "static_png": "sprites/static/103.png"
+ },
+ {
+  "dex": 104,
+  "name_en": "Cubone",
+  "name_es": "Cubone",
+  "generation": 1,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/104.png"
+ },
+ {
+  "dex": 105,
+  "name_en": "Marowak",
+  "name_es": "Marowak",
+  "generation": 1,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/105.png"
+ },
+ {
+  "dex": 106,
+  "name_en": "Hitmonlee",
+  "name_es": "Hitmonlee",
+  "generation": 1,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/106.png"
+ },
+ {
+  "dex": 107,
+  "name_en": "Hitmonchan",
+  "name_es": "Hitmonchan",
+  "generation": 1,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/107.png"
+ },
+ {
+  "dex": 108,
+  "name_en": "Lickitung",
+  "name_es": "Lickitung",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/108.png"
+ },
+ {
+  "dex": 109,
+  "name_en": "Koffing",
+  "name_es": "Koffing",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/109.png"
+ },
+ {
+  "dex": 110,
+  "name_en": "Weezing",
+  "name_es": "Weezing",
+  "generation": 1,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/110.png"
+ },
+ {
+  "dex": 111,
+  "name_en": "Rhyhorn",
+  "name_es": "Rhyhorn",
+  "generation": 1,
+  "type1": "ground",
+  "type2": "rock",
+  "static_png": "sprites/static/111.png"
+ },
+ {
+  "dex": 112,
+  "name_en": "Rhydon",
+  "name_es": "Rhydon",
+  "generation": 1,
+  "type1": "ground",
+  "type2": "rock",
+  "static_png": "sprites/static/112.png"
+ },
+ {
+  "dex": 113,
+  "name_en": "Chansey",
+  "name_es": "Chansey",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/113.png"
+ },
+ {
+  "dex": 114,
+  "name_en": "Tangela",
+  "name_es": "Tangela",
+  "generation": 1,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/114.png"
+ },
+ {
+  "dex": 115,
+  "name_en": "Kangaskhan",
+  "name_es": "Kangaskhan",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/115.png"
+ },
+ {
+  "dex": 116,
+  "name_en": "Horsea",
+  "name_es": "Horsea",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/116.png"
+ },
+ {
+  "dex": 117,
+  "name_en": "Seadra",
+  "name_es": "Seadra",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/117.png"
+ },
+ {
+  "dex": 118,
+  "name_en": "Goldeen",
+  "name_es": "Goldeen",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/118.png"
+ },
+ {
+  "dex": 119,
+  "name_en": "Seaking",
+  "name_es": "Seaking",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/119.png"
+ },
+ {
+  "dex": 120,
+  "name_en": "Staryu",
+  "name_es": "Staryu",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/120.png"
+ },
+ {
+  "dex": 121,
+  "name_en": "Starmie",
+  "name_es": "Starmie",
+  "generation": 1,
+  "type1": "water",
+  "type2": "psychic",
+  "static_png": "sprites/static/121.png"
+ },
+ {
+  "dex": 122,
+  "name_en": "Mr. Mime",
+  "name_es": "Mr. Mime",
+  "generation": 1,
+  "type1": "psychic",
+  "type2": "fairy",
+  "static_png": "sprites/static/122.png"
+ },
+ {
+  "dex": 123,
+  "name_en": "Scyther",
+  "name_es": "Scyther",
+  "generation": 1,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/123.png"
+ },
+ {
+  "dex": 124,
+  "name_en": "Jynx",
+  "name_es": "Jynx",
+  "generation": 1,
+  "type1": "ice",
+  "type2": "psychic",
+  "static_png": "sprites/static/124.png"
+ },
+ {
+  "dex": 125,
+  "name_en": "Electabuzz",
+  "name_es": "Electabuzz",
+  "generation": 1,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/125.png"
+ },
+ {
+  "dex": 126,
+  "name_en": "Magmar",
+  "name_es": "Magmar",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/126.png"
+ },
+ {
+  "dex": 127,
+  "name_en": "Pinsir",
+  "name_es": "Pinsir",
+  "generation": 1,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/127.png"
+ },
+ {
+  "dex": 128,
+  "name_en": "Tauros",
+  "name_es": "Tauros",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/128.png"
+ },
+ {
+  "dex": 129,
+  "name_en": "Magikarp",
+  "name_es": "Magikarp",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/129.png"
+ },
+ {
+  "dex": 130,
+  "name_en": "Gyarados",
+  "name_es": "Gyarados",
+  "generation": 1,
+  "type1": "water",
+  "type2": "flying",
+  "static_png": "sprites/static/130.png"
+ },
+ {
+  "dex": 131,
+  "name_en": "Lapras",
+  "name_es": "Lapras",
+  "generation": 1,
+  "type1": "water",
+  "type2": "ice",
+  "static_png": "sprites/static/131.png"
+ },
+ {
+  "dex": 132,
+  "name_en": "Ditto",
+  "name_es": "Ditto",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/132.png"
+ },
+ {
+  "dex": 133,
+  "name_en": "Eevee",
+  "name_es": "Eevee",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/133.png"
+ },
+ {
+  "dex": 134,
+  "name_en": "Vaporeon",
+  "name_es": "Vaporeon",
+  "generation": 1,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/134.png"
+ },
+ {
+  "dex": 135,
+  "name_en": "Jolteon",
+  "name_es": "Jolteon",
+  "generation": 1,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/135.png"
+ },
+ {
+  "dex": 136,
+  "name_en": "Flareon",
+  "name_es": "Flareon",
+  "generation": 1,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/136.png"
+ },
+ {
+  "dex": 137,
+  "name_en": "Porygon",
+  "name_es": "Porygon",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/137.png"
+ },
+ {
+  "dex": 138,
+  "name_en": "Omanyte",
+  "name_es": "Omanyte",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "water",
+  "static_png": "sprites/static/138.png"
+ },
+ {
+  "dex": 139,
+  "name_en": "Omastar",
+  "name_es": "Omastar",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "water",
+  "static_png": "sprites/static/139.png"
+ },
+ {
+  "dex": 140,
+  "name_en": "Kabuto",
+  "name_es": "Kabuto",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "water",
+  "static_png": "sprites/static/140.png"
+ },
+ {
+  "dex": 141,
+  "name_en": "Kabutops",
+  "name_es": "Kabutops",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "water",
+  "static_png": "sprites/static/141.png"
+ },
+ {
+  "dex": 142,
+  "name_en": "Aerodactyl",
+  "name_es": "Aerodactyl",
+  "generation": 1,
+  "type1": "rock",
+  "type2": "flying",
+  "static_png": "sprites/static/142.png"
+ },
+ {
+  "dex": 143,
+  "name_en": "Snorlax",
+  "name_es": "Snorlax",
+  "generation": 1,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/143.png"
+ },
+ {
+  "dex": 144,
+  "name_en": "Articuno",
+  "name_es": "Articuno",
+  "generation": 1,
+  "type1": "ice",
+  "type2": "flying",
+  "static_png": "sprites/static/144.png"
+ },
+ {
+  "dex": 145,
+  "name_en": "Zapdos",
+  "name_es": "Zapdos",
+  "generation": 1,
+  "type1": "electric",
+  "type2": "flying",
+  "static_png": "sprites/static/145.png"
+ },
+ {
+  "dex": 146,
+  "name_en": "Moltres",
+  "name_es": "Moltres",
+  "generation": 1,
+  "type1": "fire",
+  "type2": "flying",
+  "static_png": "sprites/static/146.png"
+ },
+ {
+  "dex": 147,
+  "name_en": "Dratini",
+  "name_es": "Dratini",
+  "generation": 1,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/147.png"
+ },
+ {
+  "dex": 148,
+  "name_en": "Dragonair",
+  "name_es": "Dragonair",
+  "generation": 1,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/148.png"
+ },
+ {
+  "dex": 149,
+  "name_en": "Dragonite",
+  "name_es": "Dragonite",
+  "generation": 1,
+  "type1": "dragon",
+  "type2": "flying",
+  "static_png": "sprites/static/149.png"
+ },
+ {
+  "dex": 150,
+  "name_en": "Mewtwo",
+  "name_es": "Mewtwo",
+  "generation": 1,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/150.png"
+ },
+ {
+  "dex": 151,
+  "name_en": "Mew",
+  "name_es": "Mew",
+  "generation": 1,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/151.png"
+ },
+ {
+  "dex": 152,
+  "name_en": "Chikorita",
+  "name_es": "Chikorita",
+  "generation": 2,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/152.png"
+ },
+ {
+  "dex": 153,
+  "name_en": "Bayleef",
+  "name_es": "Bayleef",
+  "generation": 2,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/153.png"
+ },
+ {
+  "dex": 154,
+  "name_en": "Meganium",
+  "name_es": "Meganium",
+  "generation": 2,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/154.png"
+ },
+ {
+  "dex": 155,
+  "name_en": "Cyndaquil",
+  "name_es": "Cyndaquil",
+  "generation": 2,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/155.png"
+ },
+ {
+  "dex": 156,
+  "name_en": "Quilava",
+  "name_es": "Quilava",
+  "generation": 2,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/156.png"
+ },
+ {
+  "dex": 157,
+  "name_en": "Typhlosion",
+  "name_es": "Typhlosion",
+  "generation": 2,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/157.png"
+ },
+ {
+  "dex": 158,
+  "name_en": "Totodile",
+  "name_es": "Totodile",
+  "generation": 2,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/158.png"
+ },
+ {
+  "dex": 159,
+  "name_en": "Croconaw",
+  "name_es": "Croconaw",
+  "generation": 2,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/159.png"
+ },
+ {
+  "dex": 160,
+  "name_en": "Feraligatr",
+  "name_es": "Feraligatr",
+  "generation": 2,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/160.png"
+ },
+ {
+  "dex": 161,
+  "name_en": "Sentret",
+  "name_es": "Sentret",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/161.png"
+ },
+ {
+  "dex": 162,
+  "name_en": "Furret",
+  "name_es": "Furret",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/162.png"
+ },
+ {
+  "dex": 163,
+  "name_en": "Hoothoot",
+  "name_es": "Hoothoot",
+  "generation": 2,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/163.png"
+ },
+ {
+  "dex": 164,
+  "name_en": "Noctowl",
+  "name_es": "Noctowl",
+  "generation": 2,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/164.png"
+ },
+ {
+  "dex": 165,
+  "name_en": "Ledyba",
+  "name_es": "Ledyba",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/165.png"
+ },
+ {
+  "dex": 166,
+  "name_en": "Ledian",
+  "name_es": "Ledian",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/166.png"
+ },
+ {
+  "dex": 167,
+  "name_en": "Spinarak",
+  "name_es": "Spinarak",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/167.png"
+ },
+ {
+  "dex": 168,
+  "name_en": "Ariados",
+  "name_es": "Ariados",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/168.png"
+ },
+ {
+  "dex": 169,
+  "name_en": "Crobat",
+  "name_es": "Crobat",
+  "generation": 2,
+  "type1": "poison",
+  "type2": "flying",
+  "static_png": "sprites/static/169.png"
+ },
+ {
+  "dex": 170,
+  "name_en": "Chinchou",
+  "name_es": "Chinchou",
+  "generation": 2,
+  "type1": "water",
+  "type2": "electric",
+  "static_png": "sprites/static/170.png"
+ },
+ {
+  "dex": 171,
+  "name_en": "Lanturn",
+  "name_es": "Lanturn",
+  "generation": 2,
+  "type1": "water",
+  "type2": "electric",
+  "static_png": "sprites/static/171.png"
+ },
+ {
+  "dex": 172,
+  "name_en": "Pichu",
+  "name_es": "Pichu",
+  "generation": 2,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/172.png"
+ },
+ {
+  "dex": 173,
+  "name_en": "Cleffa",
+  "name_es": "Cleffa",
+  "generation": 2,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/173.png"
+ },
+ {
+  "dex": 174,
+  "name_en": "Igglybuff",
+  "name_es": "Igglybuff",
+  "generation": 2,
+  "type1": "normal",
+  "type2": "fairy",
+  "static_png": "sprites/static/174.png"
+ },
+ {
+  "dex": 175,
+  "name_en": "Togepi",
+  "name_es": "Togepi",
+  "generation": 2,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/175.png"
+ },
+ {
+  "dex": 176,
+  "name_en": "Togetic",
+  "name_es": "Togetic",
+  "generation": 2,
+  "type1": "fairy",
+  "type2": "flying",
+  "static_png": "sprites/static/176.png"
+ },
+ {
+  "dex": 177,
+  "name_en": "Natu",
+  "name_es": "Natu",
+  "generation": 2,
+  "type1": "psychic",
+  "type2": "flying",
+  "static_png": "sprites/static/177.png"
+ },
+ {
+  "dex": 178,
+  "name_en": "Xatu",
+  "name_es": "Xatu",
+  "generation": 2,
+  "type1": "psychic",
+  "type2": "flying",
+  "static_png": "sprites/static/178.png"
+ },
+ {
+  "dex": 179,
+  "name_en": "Mareep",
+  "name_es": "Mareep",
+  "generation": 2,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/179.png"
+ },
+ {
+  "dex": 180,
+  "name_en": "Flaaffy",
+  "name_es": "Flaaffy",
+  "generation": 2,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/180.png"
+ },
+ {
+  "dex": 181,
+  "name_en": "Ampharos",
+  "name_es": "Ampharos",
+  "generation": 2,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/181.png"
+ },
+ {
+  "dex": 182,
+  "name_en": "Bellossom",
+  "name_es": "Bellossom",
+  "generation": 2,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/182.png"
+ },
+ {
+  "dex": 183,
+  "name_en": "Marill",
+  "name_es": "Marill",
+  "generation": 2,
+  "type1": "water",
+  "type2": "fairy",
+  "static_png": "sprites/static/183.png"
+ },
+ {
+  "dex": 184,
+  "name_en": "Azumarill",
+  "name_es": "Azumarill",
+  "generation": 2,
+  "type1": "water",
+  "type2": "fairy",
+  "static_png": "sprites/static/184.png"
+ },
+ {
+  "dex": 185,
+  "name_en": "Sudowoodo",
+  "name_es": "Sudowoodo",
+  "generation": 2,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/185.png"
+ },
+ {
+  "dex": 186,
+  "name_en": "Politoed",
+  "name_es": "Politoed",
+  "generation": 2,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/186.png"
+ },
+ {
+  "dex": 187,
+  "name_en": "Hoppip",
+  "name_es": "Hoppip",
+  "generation": 2,
+  "type1": "grass",
+  "type2": "flying",
+  "static_png": "sprites/static/187.png"
+ },
+ {
+  "dex": 188,
+  "name_en": "Skiploom",
+  "name_es": "Skiploom",
+  "generation": 2,
+  "type1": "grass",
+  "type2": "flying",
+  "static_png": "sprites/static/188.png"
+ },
+ {
+  "dex": 189,
+  "name_en": "Jumpluff",
+  "name_es": "Jumpluff",
+  "generation": 2,
+  "type1": "grass",
+  "type2": "flying",
+  "static_png": "sprites/static/189.png"
+ },
+ {
+  "dex": 190,
+  "name_en": "Aipom",
+  "name_es": "Aipom",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/190.png"
+ },
+ {
+  "dex": 191,
+  "name_en": "Sunkern",
+  "name_es": "Sunkern",
+  "generation": 2,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/191.png"
+ },
+ {
+  "dex": 192,
+  "name_en": "Sunflora",
+  "name_es": "Sunflora",
+  "generation": 2,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/192.png"
+ },
+ {
+  "dex": 193,
+  "name_en": "Yanma",
+  "name_es": "Yanma",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/193.png"
+ },
+ {
+  "dex": 194,
+  "name_en": "Wooper",
+  "name_es": "Wooper",
+  "generation": 2,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/194.png"
+ },
+ {
+  "dex": 195,
+  "name_en": "Quagsire",
+  "name_es": "Quagsire",
+  "generation": 2,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/195.png"
+ },
+ {
+  "dex": 196,
+  "name_en": "Espeon",
+  "name_es": "Espeon",
+  "generation": 2,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/196.png"
+ },
+ {
+  "dex": 197,
+  "name_en": "Umbreon",
+  "name_es": "Umbreon",
+  "generation": 2,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/197.png"
+ },
+ {
+  "dex": 198,
+  "name_en": "Murkrow",
+  "name_es": "Murkrow",
+  "generation": 2,
+  "type1": "dark",
+  "type2": "flying",
+  "static_png": "sprites/static/198.png"
+ },
+ {
+  "dex": 199,
+  "name_en": "Slowking",
+  "name_es": "Slowking",
+  "generation": 2,
+  "type1": "water",
+  "type2": "psychic",
+  "static_png": "sprites/static/199.png"
+ },
+ {
+  "dex": 200,
+  "name_en": "Misdreavus",
+  "name_es": "Misdreavus",
+  "generation": 2,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/200.png"
+ },
+ {
+  "dex": 201,
+  "name_en": "Unown",
+  "name_es": "Unown",
+  "generation": 2,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/201.png"
+ },
+ {
+  "dex": 202,
+  "name_en": "Wobbuffet",
+  "name_es": "Wobbuffet",
+  "generation": 2,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/202.png"
+ },
+ {
+  "dex": 203,
+  "name_en": "Girafarig",
+  "name_es": "Girafarig",
+  "generation": 2,
+  "type1": "normal",
+  "type2": "psychic",
+  "static_png": "sprites/static/203.png"
+ },
+ {
+  "dex": 204,
+  "name_en": "Pineco",
+  "name_es": "Pineco",
+  "generation": 2,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/204.png"
+ },
+ {
+  "dex": 205,
+  "name_en": "Forretress",
+  "name_es": "Forretress",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "steel",
+  "static_png": "sprites/static/205.png"
+ },
+ {
+  "dex": 206,
+  "name_en": "Dunsparce",
+  "name_es": "Dunsparce",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/206.png"
+ },
+ {
+  "dex": 207,
+  "name_en": "Gligar",
+  "name_es": "Gligar",
+  "generation": 2,
+  "type1": "ground",
+  "type2": "flying",
+  "static_png": "sprites/static/207.png"
+ },
+ {
+  "dex": 208,
+  "name_en": "Steelix",
+  "name_es": "Steelix",
+  "generation": 2,
+  "type1": "steel",
+  "type2": "ground",
+  "static_png": "sprites/static/208.png"
+ },
+ {
+  "dex": 209,
+  "name_en": "Snubbull",
+  "name_es": "Snubbull",
+  "generation": 2,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/209.png"
+ },
+ {
+  "dex": 210,
+  "name_en": "Granbull",
+  "name_es": "Granbull",
+  "generation": 2,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/210.png"
+ },
+ {
+  "dex": 211,
+  "name_en": "Qwilfish",
+  "name_es": "Qwilfish",
+  "generation": 2,
+  "type1": "water",
+  "type2": "poison",
+  "static_png": "sprites/static/211.png"
+ },
+ {
+  "dex": 212,
+  "name_en": "Scizor",
+  "name_es": "Scizor",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "steel",
+  "static_png": "sprites/static/212.png"
+ },
+ {
+  "dex": 213,
+  "name_en": "Shuckle",
+  "name_es": "Shuckle",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "rock",
+  "static_png": "sprites/static/213.png"
+ },
+ {
+  "dex": 214,
+  "name_en": "Heracross",
+  "name_es": "Heracross",
+  "generation": 2,
+  "type1": "bug",
+  "type2": "fighting",
+  "static_png": "sprites/static/214.png"
+ },
+ {
+  "dex": 215,
+  "name_en": "Sneasel",
+  "name_es": "Sneasel",
+  "generation": 2,
+  "type1": "dark",
+  "type2": "ice",
+  "static_png": "sprites/static/215.png"
+ },
+ {
+  "dex": 216,
+  "name_en": "Teddiursa",
+  "name_es": "Teddiursa",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/216.png"
+ },
+ {
+  "dex": 217,
+  "name_en": "Ursaring",
+  "name_es": "Ursaring",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/217.png"
+ },
+ {
+  "dex": 218,
+  "name_en": "Slugma",
+  "name_es": "Slugma",
+  "generation": 2,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/218.png"
+ },
+ {
+  "dex": 219,
+  "name_en": "Magcargo",
+  "name_es": "Magcargo",
+  "generation": 2,
+  "type1": "fire",
+  "type2": "rock",
+  "static_png": "sprites/static/219.png"
+ },
+ {
+  "dex": 220,
+  "name_en": "Swinub",
+  "name_es": "Swinub",
+  "generation": 2,
+  "type1": "ice",
+  "type2": "ground",
+  "static_png": "sprites/static/220.png"
+ },
+ {
+  "dex": 221,
+  "name_en": "Piloswine",
+  "name_es": "Piloswine",
+  "generation": 2,
+  "type1": "ice",
+  "type2": "ground",
+  "static_png": "sprites/static/221.png"
+ },
+ {
+  "dex": 222,
+  "name_en": "Corsola",
+  "name_es": "Corsola",
+  "generation": 2,
+  "type1": "water",
+  "type2": "rock",
+  "static_png": "sprites/static/222.png"
+ },
+ {
+  "dex": 223,
+  "name_en": "Remoraid",
+  "name_es": "Remoraid",
+  "generation": 2,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/223.png"
+ },
+ {
+  "dex": 224,
+  "name_en": "Octillery",
+  "name_es": "Octillery",
+  "generation": 2,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/224.png"
+ },
+ {
+  "dex": 225,
+  "name_en": "Delibird",
+  "name_es": "Delibird",
+  "generation": 2,
+  "type1": "ice",
+  "type2": "flying",
+  "static_png": "sprites/static/225.png"
+ },
+ {
+  "dex": 226,
+  "name_en": "Mantine",
+  "name_es": "Mantine",
+  "generation": 2,
+  "type1": "water",
+  "type2": "flying",
+  "static_png": "sprites/static/226.png"
+ },
+ {
+  "dex": 227,
+  "name_en": "Skarmory",
+  "name_es": "Skarmory",
+  "generation": 2,
+  "type1": "steel",
+  "type2": "flying",
+  "static_png": "sprites/static/227.png"
+ },
+ {
+  "dex": 228,
+  "name_en": "Houndour",
+  "name_es": "Houndour",
+  "generation": 2,
+  "type1": "dark",
+  "type2": "fire",
+  "static_png": "sprites/static/228.png"
+ },
+ {
+  "dex": 229,
+  "name_en": "Houndoom",
+  "name_es": "Houndoom",
+  "generation": 2,
+  "type1": "dark",
+  "type2": "fire",
+  "static_png": "sprites/static/229.png"
+ },
+ {
+  "dex": 230,
+  "name_en": "Kingdra",
+  "name_es": "Kingdra",
+  "generation": 2,
+  "type1": "water",
+  "type2": "dragon",
+  "static_png": "sprites/static/230.png"
+ },
+ {
+  "dex": 231,
+  "name_en": "Phanpy",
+  "name_es": "Phanpy",
+  "generation": 2,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/231.png"
+ },
+ {
+  "dex": 232,
+  "name_en": "Donphan",
+  "name_es": "Donphan",
+  "generation": 2,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/232.png"
+ },
+ {
+  "dex": 233,
+  "name_en": "Porygon2",
+  "name_es": "Porygon2",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/233.png"
+ },
+ {
+  "dex": 234,
+  "name_en": "Stantler",
+  "name_es": "Stantler",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/234.png"
+ },
+ {
+  "dex": 235,
+  "name_en": "Smeargle",
+  "name_es": "Smeargle",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/235.png"
+ },
+ {
+  "dex": 236,
+  "name_en": "Tyrogue",
+  "name_es": "Tyrogue",
+  "generation": 2,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/236.png"
+ },
+ {
+  "dex": 237,
+  "name_en": "Hitmontop",
+  "name_es": "Hitmontop",
+  "generation": 2,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/237.png"
+ },
+ {
+  "dex": 238,
+  "name_en": "Smoochum",
+  "name_es": "Smoochum",
+  "generation": 2,
+  "type1": "ice",
+  "type2": "psychic",
+  "static_png": "sprites/static/238.png"
+ },
+ {
+  "dex": 239,
+  "name_en": "Elekid",
+  "name_es": "Elekid",
+  "generation": 2,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/239.png"
+ },
+ {
+  "dex": 240,
+  "name_en": "Magby",
+  "name_es": "Magby",
+  "generation": 2,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/240.png"
+ },
+ {
+  "dex": 241,
+  "name_en": "Miltank",
+  "name_es": "Miltank",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/241.png"
+ },
+ {
+  "dex": 242,
+  "name_en": "Blissey",
+  "name_es": "Blissey",
+  "generation": 2,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/242.png"
+ },
+ {
+  "dex": 243,
+  "name_en": "Raikou",
+  "name_es": "Raikou",
+  "generation": 2,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/243.png"
+ },
+ {
+  "dex": 244,
+  "name_en": "Entei",
+  "name_es": "Entei",
+  "generation": 2,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/244.png"
+ },
+ {
+  "dex": 245,
+  "name_en": "Suicune",
+  "name_es": "Suicune",
+  "generation": 2,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/245.png"
+ },
+ {
+  "dex": 246,
+  "name_en": "Larvitar",
+  "name_es": "Larvitar",
+  "generation": 2,
+  "type1": "rock",
+  "type2": "ground",
+  "static_png": "sprites/static/246.png"
+ },
+ {
+  "dex": 247,
+  "name_en": "Pupitar",
+  "name_es": "Pupitar",
+  "generation": 2,
+  "type1": "rock",
+  "type2": "ground",
+  "static_png": "sprites/static/247.png"
+ },
+ {
+  "dex": 248,
+  "name_en": "Tyranitar",
+  "name_es": "Tyranitar",
+  "generation": 2,
+  "type1": "rock",
+  "type2": "dark",
+  "static_png": "sprites/static/248.png"
+ },
+ {
+  "dex": 249,
+  "name_en": "Lugia",
+  "name_es": "Lugia",
+  "generation": 2,
+  "type1": "psychic",
+  "type2": "flying",
+  "static_png": "sprites/static/249.png"
+ },
+ {
+  "dex": 250,
+  "name_en": "Ho-Oh",
+  "name_es": "Ho-Oh",
+  "generation": 2,
+  "type1": "fire",
+  "type2": "flying",
+  "static_png": "sprites/static/250.png"
+ },
+ {
+  "dex": 251,
+  "name_en": "Celebi",
+  "name_es": "Celebi",
+  "generation": 2,
+  "type1": "psychic",
+  "type2": "grass",
+  "static_png": "sprites/static/251.png"
+ },
+ {
+  "dex": 252,
+  "name_en": "Treecko",
+  "name_es": "Treecko",
+  "generation": 3,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/252.png"
+ },
+ {
+  "dex": 253,
+  "name_en": "Grovyle",
+  "name_es": "Grovyle",
+  "generation": 3,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/253.png"
+ },
+ {
+  "dex": 254,
+  "name_en": "Sceptile",
+  "name_es": "Sceptile",
+  "generation": 3,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/254.png"
+ },
+ {
+  "dex": 255,
+  "name_en": "Torchic",
+  "name_es": "Torchic",
+  "generation": 3,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/255.png"
+ },
+ {
+  "dex": 256,
+  "name_en": "Combusken",
+  "name_es": "Combusken",
+  "generation": 3,
+  "type1": "fire",
+  "type2": "fighting",
+  "static_png": "sprites/static/256.png"
+ },
+ {
+  "dex": 257,
+  "name_en": "Blaziken",
+  "name_es": "Blaziken",
+  "generation": 3,
+  "type1": "fire",
+  "type2": "fighting",
+  "static_png": "sprites/static/257.png"
+ },
+ {
+  "dex": 258,
+  "name_en": "Mudkip",
+  "name_es": "Mudkip",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/258.png"
+ },
+ {
+  "dex": 259,
+  "name_en": "Marshtomp",
+  "name_es": "Marshtomp",
+  "generation": 3,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/259.png"
+ },
+ {
+  "dex": 260,
+  "name_en": "Swampert",
+  "name_es": "Swampert",
+  "generation": 3,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/260.png"
+ },
+ {
+  "dex": 261,
+  "name_en": "Poochyena",
+  "name_es": "Poochyena",
+  "generation": 3,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/261.png"
+ },
+ {
+  "dex": 262,
+  "name_en": "Mightyena",
+  "name_es": "Mightyena",
+  "generation": 3,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/262.png"
+ },
+ {
+  "dex": 263,
+  "name_en": "Zigzagoon",
+  "name_es": "Zigzagoon",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/263.png"
+ },
+ {
+  "dex": 264,
+  "name_en": "Linoone",
+  "name_es": "Linoone",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/264.png"
+ },
+ {
+  "dex": 265,
+  "name_en": "Wurmple",
+  "name_es": "Wurmple",
+  "generation": 3,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/265.png"
+ },
+ {
+  "dex": 266,
+  "name_en": "Silcoon",
+  "name_es": "Silcoon",
+  "generation": 3,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/266.png"
+ },
+ {
+  "dex": 267,
+  "name_en": "Beautifly",
+  "name_es": "Beautifly",
+  "generation": 3,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/267.png"
+ },
+ {
+  "dex": 268,
+  "name_en": "Cascoon",
+  "name_es": "Cascoon",
+  "generation": 3,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/268.png"
+ },
+ {
+  "dex": 269,
+  "name_en": "Dustox",
+  "name_es": "Dustox",
+  "generation": 3,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/269.png"
+ },
+ {
+  "dex": 270,
+  "name_en": "Lotad",
+  "name_es": "Lotad",
+  "generation": 3,
+  "type1": "water",
+  "type2": "grass",
+  "static_png": "sprites/static/270.png"
+ },
+ {
+  "dex": 271,
+  "name_en": "Lombre",
+  "name_es": "Lombre",
+  "generation": 3,
+  "type1": "water",
+  "type2": "grass",
+  "static_png": "sprites/static/271.png"
+ },
+ {
+  "dex": 272,
+  "name_en": "Ludicolo",
+  "name_es": "Ludicolo",
+  "generation": 3,
+  "type1": "water",
+  "type2": "grass",
+  "static_png": "sprites/static/272.png"
+ },
+ {
+  "dex": 273,
+  "name_en": "Seedot",
+  "name_es": "Seedot",
+  "generation": 3,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/273.png"
+ },
+ {
+  "dex": 274,
+  "name_en": "Nuzleaf",
+  "name_es": "Nuzleaf",
+  "generation": 3,
+  "type1": "grass",
+  "type2": "dark",
+  "static_png": "sprites/static/274.png"
+ },
+ {
+  "dex": 275,
+  "name_en": "Shiftry",
+  "name_es": "Shiftry",
+  "generation": 3,
+  "type1": "grass",
+  "type2": "dark",
+  "static_png": "sprites/static/275.png"
+ },
+ {
+  "dex": 276,
+  "name_en": "Taillow",
+  "name_es": "Taillow",
+  "generation": 3,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/276.png"
+ },
+ {
+  "dex": 277,
+  "name_en": "Swellow",
+  "name_es": "Swellow",
+  "generation": 3,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/277.png"
+ },
+ {
+  "dex": 278,
+  "name_en": "Wingull",
+  "name_es": "Wingull",
+  "generation": 3,
+  "type1": "water",
+  "type2": "flying",
+  "static_png": "sprites/static/278.png"
+ },
+ {
+  "dex": 279,
+  "name_en": "Pelipper",
+  "name_es": "Pelipper",
+  "generation": 3,
+  "type1": "water",
+  "type2": "flying",
+  "static_png": "sprites/static/279.png"
+ },
+ {
+  "dex": 280,
+  "name_en": "Ralts",
+  "name_es": "Ralts",
+  "generation": 3,
+  "type1": "psychic",
+  "type2": "fairy",
+  "static_png": "sprites/static/280.png"
+ },
+ {
+  "dex": 281,
+  "name_en": "Kirlia",
+  "name_es": "Kirlia",
+  "generation": 3,
+  "type1": "psychic",
+  "type2": "fairy",
+  "static_png": "sprites/static/281.png"
+ },
+ {
+  "dex": 282,
+  "name_en": "Gardevoir",
+  "name_es": "Gardevoir",
+  "generation": 3,
+  "type1": "psychic",
+  "type2": "fairy",
+  "static_png": "sprites/static/282.png"
+ },
+ {
+  "dex": 283,
+  "name_en": "Surskit",
+  "name_es": "Surskit",
+  "generation": 3,
+  "type1": "bug",
+  "type2": "water",
+  "static_png": "sprites/static/283.png"
+ },
+ {
+  "dex": 284,
+  "name_en": "Masquerain",
+  "name_es": "Masquerain",
+  "generation": 3,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/284.png"
+ },
+ {
+  "dex": 285,
+  "name_en": "Shroomish",
+  "name_es": "Shroomish",
+  "generation": 3,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/285.png"
+ },
+ {
+  "dex": 286,
+  "name_en": "Breloom",
+  "name_es": "Breloom",
+  "generation": 3,
+  "type1": "grass",
+  "type2": "fighting",
+  "static_png": "sprites/static/286.png"
+ },
+ {
+  "dex": 287,
+  "name_en": "Slakoth",
+  "name_es": "Slakoth",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/287.png"
+ },
+ {
+  "dex": 288,
+  "name_en": "Vigoroth",
+  "name_es": "Vigoroth",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/288.png"
+ },
+ {
+  "dex": 289,
+  "name_en": "Slaking",
+  "name_es": "Slaking",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/289.png"
+ },
+ {
+  "dex": 290,
+  "name_en": "Nincada",
+  "name_es": "Nincada",
+  "generation": 3,
+  "type1": "bug",
+  "type2": "ground",
+  "static_png": "sprites/static/290.png"
+ },
+ {
+  "dex": 291,
+  "name_en": "Ninjask",
+  "name_es": "Ninjask",
+  "generation": 3,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/291.png"
+ },
+ {
+  "dex": 292,
+  "name_en": "Shedinja",
+  "name_es": "Shedinja",
+  "generation": 3,
+  "type1": "bug",
+  "type2": "ghost",
+  "static_png": "sprites/static/292.png"
+ },
+ {
+  "dex": 293,
+  "name_en": "Whismur",
+  "name_es": "Whismur",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/293.png"
+ },
+ {
+  "dex": 294,
+  "name_en": "Loudred",
+  "name_es": "Loudred",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/294.png"
+ },
+ {
+  "dex": 295,
+  "name_en": "Exploud",
+  "name_es": "Exploud",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/295.png"
+ },
+ {
+  "dex": 296,
+  "name_en": "Makuhita",
+  "name_es": "Makuhita",
+  "generation": 3,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/296.png"
+ },
+ {
+  "dex": 297,
+  "name_en": "Hariyama",
+  "name_es": "Hariyama",
+  "generation": 3,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/297.png"
+ },
+ {
+  "dex": 298,
+  "name_en": "Azurill",
+  "name_es": "Azurill",
+  "generation": 3,
+  "type1": "normal",
+  "type2": "fairy",
+  "static_png": "sprites/static/298.png"
+ },
+ {
+  "dex": 299,
+  "name_en": "Nosepass",
+  "name_es": "Nosepass",
+  "generation": 3,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/299.png"
+ },
+ {
+  "dex": 300,
+  "name_en": "Skitty",
+  "name_es": "Skitty",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/300.png"
+ },
+ {
+  "dex": 301,
+  "name_en": "Delcatty",
+  "name_es": "Delcatty",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/301.png"
+ },
+ {
+  "dex": 302,
+  "name_en": "Sableye",
+  "name_es": "Sableye",
+  "generation": 3,
+  "type1": "dark",
+  "type2": "ghost",
+  "static_png": "sprites/static/302.png"
+ },
+ {
+  "dex": 303,
+  "name_en": "Mawile",
+  "name_es": "Mawile",
+  "generation": 3,
+  "type1": "steel",
+  "type2": "fairy",
+  "static_png": "sprites/static/303.png"
+ },
+ {
+  "dex": 304,
+  "name_en": "Aron",
+  "name_es": "Aron",
+  "generation": 3,
+  "type1": "steel",
+  "type2": "rock",
+  "static_png": "sprites/static/304.png"
+ },
+ {
+  "dex": 305,
+  "name_en": "Lairon",
+  "name_es": "Lairon",
+  "generation": 3,
+  "type1": "steel",
+  "type2": "rock",
+  "static_png": "sprites/static/305.png"
+ },
+ {
+  "dex": 306,
+  "name_en": "Aggron",
+  "name_es": "Aggron",
+  "generation": 3,
+  "type1": "steel",
+  "type2": "rock",
+  "static_png": "sprites/static/306.png"
+ },
+ {
+  "dex": 307,
+  "name_en": "Meditite",
+  "name_es": "Meditite",
+  "generation": 3,
+  "type1": "fighting",
+  "type2": "psychic",
+  "static_png": "sprites/static/307.png"
+ },
+ {
+  "dex": 308,
+  "name_en": "Medicham",
+  "name_es": "Medicham",
+  "generation": 3,
+  "type1": "fighting",
+  "type2": "psychic",
+  "static_png": "sprites/static/308.png"
+ },
+ {
+  "dex": 309,
+  "name_en": "Electrike",
+  "name_es": "Electrike",
+  "generation": 3,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/309.png"
+ },
+ {
+  "dex": 310,
+  "name_en": "Manectric",
+  "name_es": "Manectric",
+  "generation": 3,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/310.png"
+ },
+ {
+  "dex": 311,
+  "name_en": "Plusle",
+  "name_es": "Plusle",
+  "generation": 3,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/311.png"
+ },
+ {
+  "dex": 312,
+  "name_en": "Minun",
+  "name_es": "Minun",
+  "generation": 3,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/312.png"
+ },
+ {
+  "dex": 313,
+  "name_en": "Volbeat",
+  "name_es": "Volbeat",
+  "generation": 3,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/313.png"
+ },
+ {
+  "dex": 314,
+  "name_en": "Illumise",
+  "name_es": "Illumise",
+  "generation": 3,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/314.png"
+ },
+ {
+  "dex": 315,
+  "name_en": "Roselia",
+  "name_es": "Roselia",
+  "generation": 3,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/315.png"
+ },
+ {
+  "dex": 316,
+  "name_en": "Gulpin",
+  "name_es": "Gulpin",
+  "generation": 3,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/316.png"
+ },
+ {
+  "dex": 317,
+  "name_en": "Swalot",
+  "name_es": "Swalot",
+  "generation": 3,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/317.png"
+ },
+ {
+  "dex": 318,
+  "name_en": "Carvanha",
+  "name_es": "Carvanha",
+  "generation": 3,
+  "type1": "water",
+  "type2": "dark",
+  "static_png": "sprites/static/318.png"
+ },
+ {
+  "dex": 319,
+  "name_en": "Sharpedo",
+  "name_es": "Sharpedo",
+  "generation": 3,
+  "type1": "water",
+  "type2": "dark",
+  "static_png": "sprites/static/319.png"
+ },
+ {
+  "dex": 320,
+  "name_en": "Wailmer",
+  "name_es": "Wailmer",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/320.png"
+ },
+ {
+  "dex": 321,
+  "name_en": "Wailord",
+  "name_es": "Wailord",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/321.png"
+ },
+ {
+  "dex": 322,
+  "name_en": "Numel",
+  "name_es": "Numel",
+  "generation": 3,
+  "type1": "fire",
+  "type2": "ground",
+  "static_png": "sprites/static/322.png"
+ },
+ {
+  "dex": 323,
+  "name_en": "Camerupt",
+  "name_es": "Camerupt",
+  "generation": 3,
+  "type1": "fire",
+  "type2": "ground",
+  "static_png": "sprites/static/323.png"
+ },
+ {
+  "dex": 324,
+  "name_en": "Torkoal",
+  "name_es": "Torkoal",
+  "generation": 3,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/324.png"
+ },
+ {
+  "dex": 325,
+  "name_en": "Spoink",
+  "name_es": "Spoink",
+  "generation": 3,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/325.png"
+ },
+ {
+  "dex": 326,
+  "name_en": "Grumpig",
+  "name_es": "Grumpig",
+  "generation": 3,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/326.png"
+ },
+ {
+  "dex": 327,
+  "name_en": "Spinda",
+  "name_es": "Spinda",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/327.png"
+ },
+ {
+  "dex": 328,
+  "name_en": "Trapinch",
+  "name_es": "Trapinch",
+  "generation": 3,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/328.png"
+ },
+ {
+  "dex": 329,
+  "name_en": "Vibrava",
+  "name_es": "Vibrava",
+  "generation": 3,
+  "type1": "ground",
+  "type2": "dragon",
+  "static_png": "sprites/static/329.png"
+ },
+ {
+  "dex": 330,
+  "name_en": "Flygon",
+  "name_es": "Flygon",
+  "generation": 3,
+  "type1": "ground",
+  "type2": "dragon",
+  "static_png": "sprites/static/330.png"
+ },
+ {
+  "dex": 331,
+  "name_en": "Cacnea",
+  "name_es": "Cacnea",
+  "generation": 3,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/331.png"
+ },
+ {
+  "dex": 332,
+  "name_en": "Cacturne",
+  "name_es": "Cacturne",
+  "generation": 3,
+  "type1": "grass",
+  "type2": "dark",
+  "static_png": "sprites/static/332.png"
+ },
+ {
+  "dex": 333,
+  "name_en": "Swablu",
+  "name_es": "Swablu",
+  "generation": 3,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/333.png"
+ },
+ {
+  "dex": 334,
+  "name_en": "Altaria",
+  "name_es": "Altaria",
+  "generation": 3,
+  "type1": "dragon",
+  "type2": "flying",
+  "static_png": "sprites/static/334.png"
+ },
+ {
+  "dex": 335,
+  "name_en": "Zangoose",
+  "name_es": "Zangoose",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/335.png"
+ },
+ {
+  "dex": 336,
+  "name_en": "Seviper",
+  "name_es": "Seviper",
+  "generation": 3,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/336.png"
+ },
+ {
+  "dex": 337,
+  "name_en": "Lunatone",
+  "name_es": "Lunatone",
+  "generation": 3,
+  "type1": "rock",
+  "type2": "psychic",
+  "static_png": "sprites/static/337.png"
+ },
+ {
+  "dex": 338,
+  "name_en": "Solrock",
+  "name_es": "Solrock",
+  "generation": 3,
+  "type1": "rock",
+  "type2": "psychic",
+  "static_png": "sprites/static/338.png"
+ },
+ {
+  "dex": 339,
+  "name_en": "Barboach",
+  "name_es": "Barboach",
+  "generation": 3,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/339.png"
+ },
+ {
+  "dex": 340,
+  "name_en": "Whiscash",
+  "name_es": "Whiscash",
+  "generation": 3,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/340.png"
+ },
+ {
+  "dex": 341,
+  "name_en": "Corphish",
+  "name_es": "Corphish",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/341.png"
+ },
+ {
+  "dex": 342,
+  "name_en": "Crawdaunt",
+  "name_es": "Crawdaunt",
+  "generation": 3,
+  "type1": "water",
+  "type2": "dark",
+  "static_png": "sprites/static/342.png"
+ },
+ {
+  "dex": 343,
+  "name_en": "Baltoy",
+  "name_es": "Baltoy",
+  "generation": 3,
+  "type1": "ground",
+  "type2": "psychic",
+  "static_png": "sprites/static/343.png"
+ },
+ {
+  "dex": 344,
+  "name_en": "Claydol",
+  "name_es": "Claydol",
+  "generation": 3,
+  "type1": "ground",
+  "type2": "psychic",
+  "static_png": "sprites/static/344.png"
+ },
+ {
+  "dex": 345,
+  "name_en": "Lileep",
+  "name_es": "Lileep",
+  "generation": 3,
+  "type1": "rock",
+  "type2": "grass",
+  "static_png": "sprites/static/345.png"
+ },
+ {
+  "dex": 346,
+  "name_en": "Cradily",
+  "name_es": "Cradily",
+  "generation": 3,
+  "type1": "rock",
+  "type2": "grass",
+  "static_png": "sprites/static/346.png"
+ },
+ {
+  "dex": 347,
+  "name_en": "Anorith",
+  "name_es": "Anorith",
+  "generation": 3,
+  "type1": "rock",
+  "type2": "bug",
+  "static_png": "sprites/static/347.png"
+ },
+ {
+  "dex": 348,
+  "name_en": "Armaldo",
+  "name_es": "Armaldo",
+  "generation": 3,
+  "type1": "rock",
+  "type2": "bug",
+  "static_png": "sprites/static/348.png"
+ },
+ {
+  "dex": 349,
+  "name_en": "Feebas",
+  "name_es": "Feebas",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/349.png"
+ },
+ {
+  "dex": 350,
+  "name_en": "Milotic",
+  "name_es": "Milotic",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/350.png"
+ },
+ {
+  "dex": 351,
+  "name_en": "Castform",
+  "name_es": "Castform",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/351.png"
+ },
+ {
+  "dex": 352,
+  "name_en": "Kecleon",
+  "name_es": "Kecleon",
+  "generation": 3,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/352.png"
+ },
+ {
+  "dex": 353,
+  "name_en": "Shuppet",
+  "name_es": "Shuppet",
+  "generation": 3,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/353.png"
+ },
+ {
+  "dex": 354,
+  "name_en": "Banette",
+  "name_es": "Banette",
+  "generation": 3,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/354.png"
+ },
+ {
+  "dex": 355,
+  "name_en": "Duskull",
+  "name_es": "Duskull",
+  "generation": 3,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/355.png"
+ },
+ {
+  "dex": 356,
+  "name_en": "Dusclops",
+  "name_es": "Dusclops",
+  "generation": 3,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/356.png"
+ },
+ {
+  "dex": 357,
+  "name_en": "Tropius",
+  "name_es": "Tropius",
+  "generation": 3,
+  "type1": "grass",
+  "type2": "flying",
+  "static_png": "sprites/static/357.png"
+ },
+ {
+  "dex": 358,
+  "name_en": "Chimecho",
+  "name_es": "Chimecho",
+  "generation": 3,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/358.png"
+ },
+ {
+  "dex": 359,
+  "name_en": "Absol",
+  "name_es": "Absol",
+  "generation": 3,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/359.png"
+ },
+ {
+  "dex": 360,
+  "name_en": "Wynaut",
+  "name_es": "Wynaut",
+  "generation": 3,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/360.png"
+ },
+ {
+  "dex": 361,
+  "name_en": "Snorunt",
+  "name_es": "Snorunt",
+  "generation": 3,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/361.png"
+ },
+ {
+  "dex": 362,
+  "name_en": "Glalie",
+  "name_es": "Glalie",
+  "generation": 3,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/362.png"
+ },
+ {
+  "dex": 363,
+  "name_en": "Spheal",
+  "name_es": "Spheal",
+  "generation": 3,
+  "type1": "ice",
+  "type2": "water",
+  "static_png": "sprites/static/363.png"
+ },
+ {
+  "dex": 364,
+  "name_en": "Sealeo",
+  "name_es": "Sealeo",
+  "generation": 3,
+  "type1": "ice",
+  "type2": "water",
+  "static_png": "sprites/static/364.png"
+ },
+ {
+  "dex": 365,
+  "name_en": "Walrein",
+  "name_es": "Walrein",
+  "generation": 3,
+  "type1": "ice",
+  "type2": "water",
+  "static_png": "sprites/static/365.png"
+ },
+ {
+  "dex": 366,
+  "name_en": "Clamperl",
+  "name_es": "Clamperl",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/366.png"
+ },
+ {
+  "dex": 367,
+  "name_en": "Huntail",
+  "name_es": "Huntail",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/367.png"
+ },
+ {
+  "dex": 368,
+  "name_en": "Gorebyss",
+  "name_es": "Gorebyss",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/368.png"
+ },
+ {
+  "dex": 369,
+  "name_en": "Relicanth",
+  "name_es": "Relicanth",
+  "generation": 3,
+  "type1": "water",
+  "type2": "rock",
+  "static_png": "sprites/static/369.png"
+ },
+ {
+  "dex": 370,
+  "name_en": "Luvdisc",
+  "name_es": "Luvdisc",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/370.png"
+ },
+ {
+  "dex": 371,
+  "name_en": "Bagon",
+  "name_es": "Bagon",
+  "generation": 3,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/371.png"
+ },
+ {
+  "dex": 372,
+  "name_en": "Shelgon",
+  "name_es": "Shelgon",
+  "generation": 3,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/372.png"
+ },
+ {
+  "dex": 373,
+  "name_en": "Salamence",
+  "name_es": "Salamence",
+  "generation": 3,
+  "type1": "dragon",
+  "type2": "flying",
+  "static_png": "sprites/static/373.png"
+ },
+ {
+  "dex": 374,
+  "name_en": "Beldum",
+  "name_es": "Beldum",
+  "generation": 3,
+  "type1": "steel",
+  "type2": "psychic",
+  "static_png": "sprites/static/374.png"
+ },
+ {
+  "dex": 375,
+  "name_en": "Metang",
+  "name_es": "Metang",
+  "generation": 3,
+  "type1": "steel",
+  "type2": "psychic",
+  "static_png": "sprites/static/375.png"
+ },
+ {
+  "dex": 376,
+  "name_en": "Metagross",
+  "name_es": "Metagross",
+  "generation": 3,
+  "type1": "steel",
+  "type2": "psychic",
+  "static_png": "sprites/static/376.png"
+ },
+ {
+  "dex": 377,
+  "name_en": "Regirock",
+  "name_es": "Regirock",
+  "generation": 3,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/377.png"
+ },
+ {
+  "dex": 378,
+  "name_en": "Regice",
+  "name_es": "Regice",
+  "generation": 3,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/378.png"
+ },
+ {
+  "dex": 379,
+  "name_en": "Registeel",
+  "name_es": "Registeel",
+  "generation": 3,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/379.png"
+ },
+ {
+  "dex": 380,
+  "name_en": "Latias",
+  "name_es": "Latias",
+  "generation": 3,
+  "type1": "dragon",
+  "type2": "psychic",
+  "static_png": "sprites/static/380.png"
+ },
+ {
+  "dex": 381,
+  "name_en": "Latios",
+  "name_es": "Latios",
+  "generation": 3,
+  "type1": "dragon",
+  "type2": "psychic",
+  "static_png": "sprites/static/381.png"
+ },
+ {
+  "dex": 382,
+  "name_en": "Kyogre",
+  "name_es": "Kyogre",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/382.png"
+ },
+ {
+  "dex": 383,
+  "name_en": "Groudon",
+  "name_es": "Groudon",
+  "generation": 3,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/383.png"
+ },
+ {
+  "dex": 384,
+  "name_en": "Rayquaza",
+  "name_es": "Rayquaza",
+  "generation": 3,
+  "type1": "dragon",
+  "type2": "flying",
+  "static_png": "sprites/static/384.png"
+ },
+ {
+  "dex": 385,
+  "name_en": "Jirachi",
+  "name_es": "Jirachi",
+  "generation": 3,
+  "type1": "steel",
+  "type2": "psychic",
+  "static_png": "sprites/static/385.png"
+ },
+ {
+  "dex": 386,
+  "name_en": "Deoxys",
+  "name_es": "Deoxys",
+  "generation": 3,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/386.png"
+ },
+ {
+  "dex": 387,
+  "name_en": "Turtwig",
+  "name_es": "Turtwig",
+  "generation": 4,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/387.png"
+ },
+ {
+  "dex": 388,
+  "name_en": "Grotle",
+  "name_es": "Grotle",
+  "generation": 4,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/388.png"
+ },
+ {
+  "dex": 389,
+  "name_en": "Torterra",
+  "name_es": "Torterra",
+  "generation": 4,
+  "type1": "grass",
+  "type2": "ground",
+  "static_png": "sprites/static/389.png"
+ },
+ {
+  "dex": 390,
+  "name_en": "Chimchar",
+  "name_es": "Chimchar",
+  "generation": 4,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/390.png"
+ },
+ {
+  "dex": 391,
+  "name_en": "Monferno",
+  "name_es": "Monferno",
+  "generation": 4,
+  "type1": "fire",
+  "type2": "fighting",
+  "static_png": "sprites/static/391.png"
+ },
+ {
+  "dex": 392,
+  "name_en": "Infernape",
+  "name_es": "Infernape",
+  "generation": 4,
+  "type1": "fire",
+  "type2": "fighting",
+  "static_png": "sprites/static/392.png"
+ },
+ {
+  "dex": 393,
+  "name_en": "Piplup",
+  "name_es": "Piplup",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/393.png"
+ },
+ {
+  "dex": 394,
+  "name_en": "Prinplup",
+  "name_es": "Prinplup",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/394.png"
+ },
+ {
+  "dex": 395,
+  "name_en": "Empoleon",
+  "name_es": "Empoleon",
+  "generation": 4,
+  "type1": "water",
+  "type2": "steel",
+  "static_png": "sprites/static/395.png"
+ },
+ {
+  "dex": 396,
+  "name_en": "Starly",
+  "name_es": "Starly",
+  "generation": 4,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/396.png"
+ },
+ {
+  "dex": 397,
+  "name_en": "Staravia",
+  "name_es": "Staravia",
+  "generation": 4,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/397.png"
+ },
+ {
+  "dex": 398,
+  "name_en": "Staraptor",
+  "name_es": "Staraptor",
+  "generation": 4,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/398.png"
+ },
+ {
+  "dex": 399,
+  "name_en": "Bidoof",
+  "name_es": "Bidoof",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/399.png"
+ },
+ {
+  "dex": 400,
+  "name_en": "Bibarel",
+  "name_es": "Bibarel",
+  "generation": 4,
+  "type1": "normal",
+  "type2": "water",
+  "static_png": "sprites/static/400.png"
+ },
+ {
+  "dex": 401,
+  "name_en": "Kricketot",
+  "name_es": "Kricketot",
+  "generation": 4,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/401.png"
+ },
+ {
+  "dex": 402,
+  "name_en": "Kricketune",
+  "name_es": "Kricketune",
+  "generation": 4,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/402.png"
+ },
+ {
+  "dex": 403,
+  "name_en": "Shinx",
+  "name_es": "Shinx",
+  "generation": 4,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/403.png"
+ },
+ {
+  "dex": 404,
+  "name_en": "Luxio",
+  "name_es": "Luxio",
+  "generation": 4,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/404.png"
+ },
+ {
+  "dex": 405,
+  "name_en": "Luxray",
+  "name_es": "Luxray",
+  "generation": 4,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/405.png"
+ },
+ {
+  "dex": 406,
+  "name_en": "Budew",
+  "name_es": "Budew",
+  "generation": 4,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/406.png"
+ },
+ {
+  "dex": 407,
+  "name_en": "Roserade",
+  "name_es": "Roserade",
+  "generation": 4,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/407.png"
+ },
+ {
+  "dex": 408,
+  "name_en": "Cranidos",
+  "name_es": "Cranidos",
+  "generation": 4,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/408.png"
+ },
+ {
+  "dex": 409,
+  "name_en": "Rampardos",
+  "name_es": "Rampardos",
+  "generation": 4,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/409.png"
+ },
+ {
+  "dex": 410,
+  "name_en": "Shieldon",
+  "name_es": "Shieldon",
+  "generation": 4,
+  "type1": "rock",
+  "type2": "steel",
+  "static_png": "sprites/static/410.png"
+ },
+ {
+  "dex": 411,
+  "name_en": "Bastiodon",
+  "name_es": "Bastiodon",
+  "generation": 4,
+  "type1": "rock",
+  "type2": "steel",
+  "static_png": "sprites/static/411.png"
+ },
+ {
+  "dex": 412,
+  "name_en": "Burmy",
+  "name_es": "Burmy",
+  "generation": 4,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/412.png"
+ },
+ {
+  "dex": 413,
+  "name_en": "Wormadam",
+  "name_es": "Wormadam",
+  "generation": 4,
+  "type1": "bug",
+  "type2": "grass",
+  "static_png": "sprites/static/413.png"
+ },
+ {
+  "dex": 414,
+  "name_en": "Mothim",
+  "name_es": "Mothim",
+  "generation": 4,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/414.png"
+ },
+ {
+  "dex": 415,
+  "name_en": "Combee",
+  "name_es": "Combee",
+  "generation": 4,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/415.png"
+ },
+ {
+  "dex": 416,
+  "name_en": "Vespiquen",
+  "name_es": "Vespiquen",
+  "generation": 4,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/416.png"
+ },
+ {
+  "dex": 417,
+  "name_en": "Pachirisu",
+  "name_es": "Pachirisu",
+  "generation": 4,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/417.png"
+ },
+ {
+  "dex": 418,
+  "name_en": "Buizel",
+  "name_es": "Buizel",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/418.png"
+ },
+ {
+  "dex": 419,
+  "name_en": "Floatzel",
+  "name_es": "Floatzel",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/419.png"
+ },
+ {
+  "dex": 420,
+  "name_en": "Cherubi",
+  "name_es": "Cherubi",
+  "generation": 4,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/420.png"
+ },
+ {
+  "dex": 421,
+  "name_en": "Cherrim",
+  "name_es": "Cherrim",
+  "generation": 4,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/421.png"
+ },
+ {
+  "dex": 422,
+  "name_en": "Shellos",
+  "name_es": "Shellos",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/422.png"
+ },
+ {
+  "dex": 423,
+  "name_en": "Gastrodon",
+  "name_es": "Gastrodon",
+  "generation": 4,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/423.png"
+ },
+ {
+  "dex": 424,
+  "name_en": "Ambipom",
+  "name_es": "Ambipom",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/424.png"
+ },
+ {
+  "dex": 425,
+  "name_en": "Drifloon",
+  "name_es": "Drifloon",
+  "generation": 4,
+  "type1": "ghost",
+  "type2": "flying",
+  "static_png": "sprites/static/425.png"
+ },
+ {
+  "dex": 426,
+  "name_en": "Drifblim",
+  "name_es": "Drifblim",
+  "generation": 4,
+  "type1": "ghost",
+  "type2": "flying",
+  "static_png": "sprites/static/426.png"
+ },
+ {
+  "dex": 427,
+  "name_en": "Buneary",
+  "name_es": "Buneary",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/427.png"
+ },
+ {
+  "dex": 428,
+  "name_en": "Lopunny",
+  "name_es": "Lopunny",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/428.png"
+ },
+ {
+  "dex": 429,
+  "name_en": "Mismagius",
+  "name_es": "Mismagius",
+  "generation": 4,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/429.png"
+ },
+ {
+  "dex": 430,
+  "name_en": "Honchkrow",
+  "name_es": "Honchkrow",
+  "generation": 4,
+  "type1": "dark",
+  "type2": "flying",
+  "static_png": "sprites/static/430.png"
+ },
+ {
+  "dex": 431,
+  "name_en": "Glameow",
+  "name_es": "Glameow",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/431.png"
+ },
+ {
+  "dex": 432,
+  "name_en": "Purugly",
+  "name_es": "Purugly",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/432.png"
+ },
+ {
+  "dex": 433,
+  "name_en": "Chingling",
+  "name_es": "Chingling",
+  "generation": 4,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/433.png"
+ },
+ {
+  "dex": 434,
+  "name_en": "Stunky",
+  "name_es": "Stunky",
+  "generation": 4,
+  "type1": "poison",
+  "type2": "dark",
+  "static_png": "sprites/static/434.png"
+ },
+ {
+  "dex": 435,
+  "name_en": "Skuntank",
+  "name_es": "Skuntank",
+  "generation": 4,
+  "type1": "poison",
+  "type2": "dark",
+  "static_png": "sprites/static/435.png"
+ },
+ {
+  "dex": 436,
+  "name_en": "Bronzor",
+  "name_es": "Bronzor",
+  "generation": 4,
+  "type1": "steel",
+  "type2": "psychic",
+  "static_png": "sprites/static/436.png"
+ },
+ {
+  "dex": 437,
+  "name_en": "Bronzong",
+  "name_es": "Bronzong",
+  "generation": 4,
+  "type1": "steel",
+  "type2": "psychic",
+  "static_png": "sprites/static/437.png"
+ },
+ {
+  "dex": 438,
+  "name_en": "Bonsly",
+  "name_es": "Bonsly",
+  "generation": 4,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/438.png"
+ },
+ {
+  "dex": 439,
+  "name_en": "Mime Jr.",
+  "name_es": "Mime Jr.",
+  "generation": 4,
+  "type1": "psychic",
+  "type2": "fairy",
+  "static_png": "sprites/static/439.png"
+ },
+ {
+  "dex": 440,
+  "name_en": "Happiny",
+  "name_es": "Happiny",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/440.png"
+ },
+ {
+  "dex": 441,
+  "name_en": "Chatot",
+  "name_es": "Chatot",
+  "generation": 4,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/441.png"
+ },
+ {
+  "dex": 442,
+  "name_en": "Spiritomb",
+  "name_es": "Spiritomb",
+  "generation": 4,
+  "type1": "ghost",
+  "type2": "dark",
+  "static_png": "sprites/static/442.png"
+ },
+ {
+  "dex": 443,
+  "name_en": "Gible",
+  "name_es": "Gible",
+  "generation": 4,
+  "type1": "dragon",
+  "type2": "ground",
+  "static_png": "sprites/static/443.png"
+ },
+ {
+  "dex": 444,
+  "name_en": "Gabite",
+  "name_es": "Gabite",
+  "generation": 4,
+  "type1": "dragon",
+  "type2": "ground",
+  "static_png": "sprites/static/444.png"
+ },
+ {
+  "dex": 445,
+  "name_en": "Garchomp",
+  "name_es": "Garchomp",
+  "generation": 4,
+  "type1": "dragon",
+  "type2": "ground",
+  "static_png": "sprites/static/445.png"
+ },
+ {
+  "dex": 446,
+  "name_en": "Munchlax",
+  "name_es": "Munchlax",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/446.png"
+ },
+ {
+  "dex": 447,
+  "name_en": "Riolu",
+  "name_es": "Riolu",
+  "generation": 4,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/447.png"
+ },
+ {
+  "dex": 448,
+  "name_en": "Lucario",
+  "name_es": "Lucario",
+  "generation": 4,
+  "type1": "fighting",
+  "type2": "steel",
+  "static_png": "sprites/static/448.png"
+ },
+ {
+  "dex": 449,
+  "name_en": "Hippopotas",
+  "name_es": "Hippopotas",
+  "generation": 4,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/449.png"
+ },
+ {
+  "dex": 450,
+  "name_en": "Hippowdon",
+  "name_es": "Hippowdon",
+  "generation": 4,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/450.png"
+ },
+ {
+  "dex": 451,
+  "name_en": "Skorupi",
+  "name_es": "Skorupi",
+  "generation": 4,
+  "type1": "poison",
+  "type2": "bug",
+  "static_png": "sprites/static/451.png"
+ },
+ {
+  "dex": 452,
+  "name_en": "Drapion",
+  "name_es": "Drapion",
+  "generation": 4,
+  "type1": "poison",
+  "type2": "dark",
+  "static_png": "sprites/static/452.png"
+ },
+ {
+  "dex": 453,
+  "name_en": "Croagunk",
+  "name_es": "Croagunk",
+  "generation": 4,
+  "type1": "poison",
+  "type2": "fighting",
+  "static_png": "sprites/static/453.png"
+ },
+ {
+  "dex": 454,
+  "name_en": "Toxicroak",
+  "name_es": "Toxicroak",
+  "generation": 4,
+  "type1": "poison",
+  "type2": "fighting",
+  "static_png": "sprites/static/454.png"
+ },
+ {
+  "dex": 455,
+  "name_en": "Carnivine",
+  "name_es": "Carnivine",
+  "generation": 4,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/455.png"
+ },
+ {
+  "dex": 456,
+  "name_en": "Finneon",
+  "name_es": "Finneon",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/456.png"
+ },
+ {
+  "dex": 457,
+  "name_en": "Lumineon",
+  "name_es": "Lumineon",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/457.png"
+ },
+ {
+  "dex": 458,
+  "name_en": "Mantyke",
+  "name_es": "Mantyke",
+  "generation": 4,
+  "type1": "water",
+  "type2": "flying",
+  "static_png": "sprites/static/458.png"
+ },
+ {
+  "dex": 459,
+  "name_en": "Snover",
+  "name_es": "Snover",
+  "generation": 4,
+  "type1": "grass",
+  "type2": "ice",
+  "static_png": "sprites/static/459.png"
+ },
+ {
+  "dex": 460,
+  "name_en": "Abomasnow",
+  "name_es": "Abomasnow",
+  "generation": 4,
+  "type1": "grass",
+  "type2": "ice",
+  "static_png": "sprites/static/460.png"
+ },
+ {
+  "dex": 461,
+  "name_en": "Weavile",
+  "name_es": "Weavile",
+  "generation": 4,
+  "type1": "dark",
+  "type2": "ice",
+  "static_png": "sprites/static/461.png"
+ },
+ {
+  "dex": 462,
+  "name_en": "Magnezone",
+  "name_es": "Magnezone",
+  "generation": 4,
+  "type1": "electric",
+  "type2": "steel",
+  "static_png": "sprites/static/462.png"
+ },
+ {
+  "dex": 463,
+  "name_en": "Lickilicky",
+  "name_es": "Lickilicky",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/463.png"
+ },
+ {
+  "dex": 464,
+  "name_en": "Rhyperior",
+  "name_es": "Rhyperior",
+  "generation": 4,
+  "type1": "ground",
+  "type2": "rock",
+  "static_png": "sprites/static/464.png"
+ },
+ {
+  "dex": 465,
+  "name_en": "Tangrowth",
+  "name_es": "Tangrowth",
+  "generation": 4,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/465.png"
+ },
+ {
+  "dex": 466,
+  "name_en": "Electivire",
+  "name_es": "Electivire",
+  "generation": 4,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/466.png"
+ },
+ {
+  "dex": 467,
+  "name_en": "Magmortar",
+  "name_es": "Magmortar",
+  "generation": 4,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/467.png"
+ },
+ {
+  "dex": 468,
+  "name_en": "Togekiss",
+  "name_es": "Togekiss",
+  "generation": 4,
+  "type1": "fairy",
+  "type2": "flying",
+  "static_png": "sprites/static/468.png"
+ },
+ {
+  "dex": 469,
+  "name_en": "Yanmega",
+  "name_es": "Yanmega",
+  "generation": 4,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/469.png"
+ },
+ {
+  "dex": 470,
+  "name_en": "Leafeon",
+  "name_es": "Leafeon",
+  "generation": 4,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/470.png"
+ },
+ {
+  "dex": 471,
+  "name_en": "Glaceon",
+  "name_es": "Glaceon",
+  "generation": 4,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/471.png"
+ },
+ {
+  "dex": 472,
+  "name_en": "Gliscor",
+  "name_es": "Gliscor",
+  "generation": 4,
+  "type1": "ground",
+  "type2": "flying",
+  "static_png": "sprites/static/472.png"
+ },
+ {
+  "dex": 473,
+  "name_en": "Mamoswine",
+  "name_es": "Mamoswine",
+  "generation": 4,
+  "type1": "ice",
+  "type2": "ground",
+  "static_png": "sprites/static/473.png"
+ },
+ {
+  "dex": 474,
+  "name_en": "Porygon-Z",
+  "name_es": "Porygon-Z",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/474.png"
+ },
+ {
+  "dex": 475,
+  "name_en": "Gallade",
+  "name_es": "Gallade",
+  "generation": 4,
+  "type1": "psychic",
+  "type2": "fighting",
+  "static_png": "sprites/static/475.png"
+ },
+ {
+  "dex": 476,
+  "name_en": "Probopass",
+  "name_es": "Probopass",
+  "generation": 4,
+  "type1": "rock",
+  "type2": "steel",
+  "static_png": "sprites/static/476.png"
+ },
+ {
+  "dex": 477,
+  "name_en": "Dusknoir",
+  "name_es": "Dusknoir",
+  "generation": 4,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/477.png"
+ },
+ {
+  "dex": 478,
+  "name_en": "Froslass",
+  "name_es": "Froslass",
+  "generation": 4,
+  "type1": "ice",
+  "type2": "ghost",
+  "static_png": "sprites/static/478.png"
+ },
+ {
+  "dex": 479,
+  "name_en": "Rotom",
+  "name_es": "Rotom",
+  "generation": 4,
+  "type1": "electric",
+  "type2": "ghost",
+  "static_png": "sprites/static/479.png"
+ },
+ {
+  "dex": 480,
+  "name_en": "Uxie",
+  "name_es": "Uxie",
+  "generation": 4,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/480.png"
+ },
+ {
+  "dex": 481,
+  "name_en": "Mesprit",
+  "name_es": "Mesprit",
+  "generation": 4,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/481.png"
+ },
+ {
+  "dex": 482,
+  "name_en": "Azelf",
+  "name_es": "Azelf",
+  "generation": 4,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/482.png"
+ },
+ {
+  "dex": 483,
+  "name_en": "Dialga",
+  "name_es": "Dialga",
+  "generation": 4,
+  "type1": "steel",
+  "type2": "dragon",
+  "static_png": "sprites/static/483.png"
+ },
+ {
+  "dex": 484,
+  "name_en": "Palkia",
+  "name_es": "Palkia",
+  "generation": 4,
+  "type1": "water",
+  "type2": "dragon",
+  "static_png": "sprites/static/484.png"
+ },
+ {
+  "dex": 485,
+  "name_en": "Heatran",
+  "name_es": "Heatran",
+  "generation": 4,
+  "type1": "fire",
+  "type2": "steel",
+  "static_png": "sprites/static/485.png"
+ },
+ {
+  "dex": 486,
+  "name_en": "Regigigas",
+  "name_es": "Regigigas",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/486.png"
+ },
+ {
+  "dex": 487,
+  "name_en": "Giratina",
+  "name_es": "Giratina",
+  "generation": 4,
+  "type1": "ghost",
+  "type2": "dragon",
+  "static_png": "sprites/static/487.png"
+ },
+ {
+  "dex": 488,
+  "name_en": "Cresselia",
+  "name_es": "Cresselia",
+  "generation": 4,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/488.png"
+ },
+ {
+  "dex": 489,
+  "name_en": "Phione",
+  "name_es": "Phione",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/489.png"
+ },
+ {
+  "dex": 490,
+  "name_en": "Manaphy",
+  "name_es": "Manaphy",
+  "generation": 4,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/490.png"
+ },
+ {
+  "dex": 491,
+  "name_en": "Darkrai",
+  "name_es": "Darkrai",
+  "generation": 4,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/491.png"
+ },
+ {
+  "dex": 492,
+  "name_en": "Shaymin",
+  "name_es": "Shaymin",
+  "generation": 4,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/492.png"
+ },
+ {
+  "dex": 493,
+  "name_en": "Arceus",
+  "name_es": "Arceus",
+  "generation": 4,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/493.png"
+ },
+ {
+  "dex": 494,
+  "name_en": "Victini",
+  "name_es": "Victini",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": "fire",
+  "static_png": "sprites/static/494.png"
+ },
+ {
+  "dex": 495,
+  "name_en": "Snivy",
+  "name_es": "Snivy",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/495.png"
+ },
+ {
+  "dex": 496,
+  "name_en": "Servine",
+  "name_es": "Servine",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/496.png"
+ },
+ {
+  "dex": 497,
+  "name_en": "Serperior",
+  "name_es": "Serperior",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/497.png"
+ },
+ {
+  "dex": 498,
+  "name_en": "Tepig",
+  "name_es": "Tepig",
+  "generation": 5,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/498.png"
+ },
+ {
+  "dex": 499,
+  "name_en": "Pignite",
+  "name_es": "Pignite",
+  "generation": 5,
+  "type1": "fire",
+  "type2": "fighting",
+  "static_png": "sprites/static/499.png"
+ },
+ {
+  "dex": 500,
+  "name_en": "Emboar",
+  "name_es": "Emboar",
+  "generation": 5,
+  "type1": "fire",
+  "type2": "fighting",
+  "static_png": "sprites/static/500.png"
+ },
+ {
+  "dex": 501,
+  "name_en": "Oshawott",
+  "name_es": "Oshawott",
+  "generation": 5,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/501.png"
+ },
+ {
+  "dex": 502,
+  "name_en": "Dewott",
+  "name_es": "Dewott",
+  "generation": 5,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/502.png"
+ },
+ {
+  "dex": 503,
+  "name_en": "Samurott",
+  "name_es": "Samurott",
+  "generation": 5,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/503.png"
+ },
+ {
+  "dex": 504,
+  "name_en": "Patrat",
+  "name_es": "Patrat",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/504.png"
+ },
+ {
+  "dex": 505,
+  "name_en": "Watchog",
+  "name_es": "Watchog",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/505.png"
+ },
+ {
+  "dex": 506,
+  "name_en": "Lillipup",
+  "name_es": "Lillipup",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/506.png"
+ },
+ {
+  "dex": 507,
+  "name_en": "Herdier",
+  "name_es": "Herdier",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/507.png"
+ },
+ {
+  "dex": 508,
+  "name_en": "Stoutland",
+  "name_es": "Stoutland",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/508.png"
+ },
+ {
+  "dex": 509,
+  "name_en": "Purrloin",
+  "name_es": "Purrloin",
+  "generation": 5,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/509.png"
+ },
+ {
+  "dex": 510,
+  "name_en": "Liepard",
+  "name_es": "Liepard",
+  "generation": 5,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/510.png"
+ },
+ {
+  "dex": 511,
+  "name_en": "Pansage",
+  "name_es": "Pansage",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/511.png"
+ },
+ {
+  "dex": 512,
+  "name_en": "Simisage",
+  "name_es": "Simisage",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/512.png"
+ },
+ {
+  "dex": 513,
+  "name_en": "Pansear",
+  "name_es": "Pansear",
+  "generation": 5,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/513.png"
+ },
+ {
+  "dex": 514,
+  "name_en": "Simisear",
+  "name_es": "Simisear",
+  "generation": 5,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/514.png"
+ },
+ {
+  "dex": 515,
+  "name_en": "Panpour",
+  "name_es": "Panpour",
+  "generation": 5,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/515.png"
+ },
+ {
+  "dex": 516,
+  "name_en": "Simipour",
+  "name_es": "Simipour",
+  "generation": 5,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/516.png"
+ },
+ {
+  "dex": 517,
+  "name_en": "Munna",
+  "name_es": "Munna",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/517.png"
+ },
+ {
+  "dex": 518,
+  "name_en": "Musharna",
+  "name_es": "Musharna",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/518.png"
+ },
+ {
+  "dex": 519,
+  "name_en": "Pidove",
+  "name_es": "Pidove",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/519.png"
+ },
+ {
+  "dex": 520,
+  "name_en": "Tranquill",
+  "name_es": "Tranquill",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/520.png"
+ },
+ {
+  "dex": 521,
+  "name_en": "Unfezant",
+  "name_es": "Unfezant",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/521.png"
+ },
+ {
+  "dex": 522,
+  "name_en": "Blitzle",
+  "name_es": "Blitzle",
+  "generation": 5,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/522.png"
+ },
+ {
+  "dex": 523,
+  "name_en": "Zebstrika",
+  "name_es": "Zebstrika",
+  "generation": 5,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/523.png"
+ },
+ {
+  "dex": 524,
+  "name_en": "Roggenrola",
+  "name_es": "Roggenrola",
+  "generation": 5,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/524.png"
+ },
+ {
+  "dex": 525,
+  "name_en": "Boldore",
+  "name_es": "Boldore",
+  "generation": 5,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/525.png"
+ },
+ {
+  "dex": 526,
+  "name_en": "Gigalith",
+  "name_es": "Gigalith",
+  "generation": 5,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/526.png"
+ },
+ {
+  "dex": 527,
+  "name_en": "Woobat",
+  "name_es": "Woobat",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": "flying",
+  "static_png": "sprites/static/527.png"
+ },
+ {
+  "dex": 528,
+  "name_en": "Swoobat",
+  "name_es": "Swoobat",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": "flying",
+  "static_png": "sprites/static/528.png"
+ },
+ {
+  "dex": 529,
+  "name_en": "Drilbur",
+  "name_es": "Drilbur",
+  "generation": 5,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/529.png"
+ },
+ {
+  "dex": 530,
+  "name_en": "Excadrill",
+  "name_es": "Excadrill",
+  "generation": 5,
+  "type1": "ground",
+  "type2": "steel",
+  "static_png": "sprites/static/530.png"
+ },
+ {
+  "dex": 531,
+  "name_en": "Audino",
+  "name_es": "Audino",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/531.png"
+ },
+ {
+  "dex": 532,
+  "name_en": "Timburr",
+  "name_es": "Timburr",
+  "generation": 5,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/532.png"
+ },
+ {
+  "dex": 533,
+  "name_en": "Gurdurr",
+  "name_es": "Gurdurr",
+  "generation": 5,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/533.png"
+ },
+ {
+  "dex": 534,
+  "name_en": "Conkeldurr",
+  "name_es": "Conkeldurr",
+  "generation": 5,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/534.png"
+ },
+ {
+  "dex": 535,
+  "name_en": "Tympole",
+  "name_es": "Tympole",
+  "generation": 5,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/535.png"
+ },
+ {
+  "dex": 536,
+  "name_en": "Palpitoad",
+  "name_es": "Palpitoad",
+  "generation": 5,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/536.png"
+ },
+ {
+  "dex": 537,
+  "name_en": "Seismitoad",
+  "name_es": "Seismitoad",
+  "generation": 5,
+  "type1": "water",
+  "type2": "ground",
+  "static_png": "sprites/static/537.png"
+ },
+ {
+  "dex": 538,
+  "name_en": "Throh",
+  "name_es": "Throh",
+  "generation": 5,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/538.png"
+ },
+ {
+  "dex": 539,
+  "name_en": "Sawk",
+  "name_es": "Sawk",
+  "generation": 5,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/539.png"
+ },
+ {
+  "dex": 540,
+  "name_en": "Sewaddle",
+  "name_es": "Sewaddle",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "grass",
+  "static_png": "sprites/static/540.png"
+ },
+ {
+  "dex": 541,
+  "name_en": "Swadloon",
+  "name_es": "Swadloon",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "grass",
+  "static_png": "sprites/static/541.png"
+ },
+ {
+  "dex": 542,
+  "name_en": "Leavanny",
+  "name_es": "Leavanny",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "grass",
+  "static_png": "sprites/static/542.png"
+ },
+ {
+  "dex": 543,
+  "name_en": "Venipede",
+  "name_es": "Venipede",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/543.png"
+ },
+ {
+  "dex": 544,
+  "name_en": "Whirlipede",
+  "name_es": "Whirlipede",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/544.png"
+ },
+ {
+  "dex": 545,
+  "name_en": "Scolipede",
+  "name_es": "Scolipede",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "poison",
+  "static_png": "sprites/static/545.png"
+ },
+ {
+  "dex": 546,
+  "name_en": "Cottonee",
+  "name_es": "Cottonee",
+  "generation": 5,
+  "type1": "grass",
+  "type2": "fairy",
+  "static_png": "sprites/static/546.png"
+ },
+ {
+  "dex": 547,
+  "name_en": "Whimsicott",
+  "name_es": "Whimsicott",
+  "generation": 5,
+  "type1": "grass",
+  "type2": "fairy",
+  "static_png": "sprites/static/547.png"
+ },
+ {
+  "dex": 548,
+  "name_en": "Petilil",
+  "name_es": "Petilil",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/548.png"
+ },
+ {
+  "dex": 549,
+  "name_en": "Lilligant",
+  "name_es": "Lilligant",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/549.png"
+ },
+ {
+  "dex": 550,
+  "name_en": "Basculin",
+  "name_es": "Basculin",
+  "generation": 5,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/550.png"
+ },
+ {
+  "dex": 551,
+  "name_en": "Sandile",
+  "name_es": "Sandile",
+  "generation": 5,
+  "type1": "ground",
+  "type2": "dark",
+  "static_png": "sprites/static/551.png"
+ },
+ {
+  "dex": 552,
+  "name_en": "Krokorok",
+  "name_es": "Krokorok",
+  "generation": 5,
+  "type1": "ground",
+  "type2": "dark",
+  "static_png": "sprites/static/552.png"
+ },
+ {
+  "dex": 553,
+  "name_en": "Krookodile",
+  "name_es": "Krookodile",
+  "generation": 5,
+  "type1": "ground",
+  "type2": "dark",
+  "static_png": "sprites/static/553.png"
+ },
+ {
+  "dex": 554,
+  "name_en": "Darumaka",
+  "name_es": "Darumaka",
+  "generation": 5,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/554.png"
+ },
+ {
+  "dex": 555,
+  "name_en": "Darmanitan",
+  "name_es": "Darmanitan",
+  "generation": 5,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/555.png"
+ },
+ {
+  "dex": 556,
+  "name_en": "Maractus",
+  "name_es": "Maractus",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/556.png"
+ },
+ {
+  "dex": 557,
+  "name_en": "Dwebble",
+  "name_es": "Dwebble",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "rock",
+  "static_png": "sprites/static/557.png"
+ },
+ {
+  "dex": 558,
+  "name_en": "Crustle",
+  "name_es": "Crustle",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "rock",
+  "static_png": "sprites/static/558.png"
+ },
+ {
+  "dex": 559,
+  "name_en": "Scraggy",
+  "name_es": "Scraggy",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "fighting",
+  "static_png": "sprites/static/559.png"
+ },
+ {
+  "dex": 560,
+  "name_en": "Scrafty",
+  "name_es": "Scrafty",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "fighting",
+  "static_png": "sprites/static/560.png"
+ },
+ {
+  "dex": 561,
+  "name_en": "Sigilyph",
+  "name_es": "Sigilyph",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": "flying",
+  "static_png": "sprites/static/561.png"
+ },
+ {
+  "dex": 562,
+  "name_en": "Yamask",
+  "name_es": "Yamask",
+  "generation": 5,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/562.png"
+ },
+ {
+  "dex": 563,
+  "name_en": "Cofagrigus",
+  "name_es": "Cofagrigus",
+  "generation": 5,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/563.png"
+ },
+ {
+  "dex": 564,
+  "name_en": "Tirtouga",
+  "name_es": "Tirtouga",
+  "generation": 5,
+  "type1": "water",
+  "type2": "rock",
+  "static_png": "sprites/static/564.png"
+ },
+ {
+  "dex": 565,
+  "name_en": "Carracosta",
+  "name_es": "Carracosta",
+  "generation": 5,
+  "type1": "water",
+  "type2": "rock",
+  "static_png": "sprites/static/565.png"
+ },
+ {
+  "dex": 566,
+  "name_en": "Archen",
+  "name_es": "Archen",
+  "generation": 5,
+  "type1": "rock",
+  "type2": "flying",
+  "static_png": "sprites/static/566.png"
+ },
+ {
+  "dex": 567,
+  "name_en": "Archeops",
+  "name_es": "Archeops",
+  "generation": 5,
+  "type1": "rock",
+  "type2": "flying",
+  "static_png": "sprites/static/567.png"
+ },
+ {
+  "dex": 568,
+  "name_en": "Trubbish",
+  "name_es": "Trubbish",
+  "generation": 5,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/568.png"
+ },
+ {
+  "dex": 569,
+  "name_en": "Garbodor",
+  "name_es": "Garbodor",
+  "generation": 5,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/569.png"
+ },
+ {
+  "dex": 570,
+  "name_en": "Zorua",
+  "name_es": "Zorua",
+  "generation": 5,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/570.png"
+ },
+ {
+  "dex": 571,
+  "name_en": "Zoroark",
+  "name_es": "Zoroark",
+  "generation": 5,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/571.png"
+ },
+ {
+  "dex": 572,
+  "name_en": "Minccino",
+  "name_es": "Minccino",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/572.png"
+ },
+ {
+  "dex": 573,
+  "name_en": "Cinccino",
+  "name_es": "Cinccino",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/573.png"
+ },
+ {
+  "dex": 574,
+  "name_en": "Gothita",
+  "name_es": "Gothita",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/574.png"
+ },
+ {
+  "dex": 575,
+  "name_en": "Gothorita",
+  "name_es": "Gothorita",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/575.png"
+ },
+ {
+  "dex": 576,
+  "name_en": "Gothitelle",
+  "name_es": "Gothitelle",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/576.png"
+ },
+ {
+  "dex": 577,
+  "name_en": "Solosis",
+  "name_es": "Solosis",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/577.png"
+ },
+ {
+  "dex": 578,
+  "name_en": "Duosion",
+  "name_es": "Duosion",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/578.png"
+ },
+ {
+  "dex": 579,
+  "name_en": "Reuniclus",
+  "name_es": "Reuniclus",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/579.png"
+ },
+ {
+  "dex": 580,
+  "name_en": "Ducklett",
+  "name_es": "Ducklett",
+  "generation": 5,
+  "type1": "water",
+  "type2": "flying",
+  "static_png": "sprites/static/580.png"
+ },
+ {
+  "dex": 581,
+  "name_en": "Swanna",
+  "name_es": "Swanna",
+  "generation": 5,
+  "type1": "water",
+  "type2": "flying",
+  "static_png": "sprites/static/581.png"
+ },
+ {
+  "dex": 582,
+  "name_en": "Vanillite",
+  "name_es": "Vanillite",
+  "generation": 5,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/582.png"
+ },
+ {
+  "dex": 583,
+  "name_en": "Vanillish",
+  "name_es": "Vanillish",
+  "generation": 5,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/583.png"
+ },
+ {
+  "dex": 584,
+  "name_en": "Vanilluxe",
+  "name_es": "Vanilluxe",
+  "generation": 5,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/584.png"
+ },
+ {
+  "dex": 585,
+  "name_en": "Deerling",
+  "name_es": "Deerling",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "grass",
+  "static_png": "sprites/static/585.png"
+ },
+ {
+  "dex": 586,
+  "name_en": "Sawsbuck",
+  "name_es": "Sawsbuck",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "grass",
+  "static_png": "sprites/static/586.png"
+ },
+ {
+  "dex": 587,
+  "name_en": "Emolga",
+  "name_es": "Emolga",
+  "generation": 5,
+  "type1": "electric",
+  "type2": "flying",
+  "static_png": "sprites/static/587.png"
+ },
+ {
+  "dex": 588,
+  "name_en": "Karrablast",
+  "name_es": "Karrablast",
+  "generation": 5,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/588.png"
+ },
+ {
+  "dex": 589,
+  "name_en": "Escavalier",
+  "name_es": "Escavalier",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "steel",
+  "static_png": "sprites/static/589.png"
+ },
+ {
+  "dex": 590,
+  "name_en": "Foongus",
+  "name_es": "Foongus",
+  "generation": 5,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/590.png"
+ },
+ {
+  "dex": 591,
+  "name_en": "Amoonguss",
+  "name_es": "Amoonguss",
+  "generation": 5,
+  "type1": "grass",
+  "type2": "poison",
+  "static_png": "sprites/static/591.png"
+ },
+ {
+  "dex": 592,
+  "name_en": "Frillish",
+  "name_es": "Frillish",
+  "generation": 5,
+  "type1": "water",
+  "type2": "ghost",
+  "static_png": "sprites/static/592.png"
+ },
+ {
+  "dex": 593,
+  "name_en": "Jellicent",
+  "name_es": "Jellicent",
+  "generation": 5,
+  "type1": "water",
+  "type2": "ghost",
+  "static_png": "sprites/static/593.png"
+ },
+ {
+  "dex": 594,
+  "name_en": "Alomomola",
+  "name_es": "Alomomola",
+  "generation": 5,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/594.png"
+ },
+ {
+  "dex": 595,
+  "name_en": "Joltik",
+  "name_es": "Joltik",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "electric",
+  "static_png": "sprites/static/595.png"
+ },
+ {
+  "dex": 596,
+  "name_en": "Galvantula",
+  "name_es": "Galvantula",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "electric",
+  "static_png": "sprites/static/596.png"
+ },
+ {
+  "dex": 597,
+  "name_en": "Ferroseed",
+  "name_es": "Ferroseed",
+  "generation": 5,
+  "type1": "grass",
+  "type2": "steel",
+  "static_png": "sprites/static/597.png"
+ },
+ {
+  "dex": 598,
+  "name_en": "Ferrothorn",
+  "name_es": "Ferrothorn",
+  "generation": 5,
+  "type1": "grass",
+  "type2": "steel",
+  "static_png": "sprites/static/598.png"
+ },
+ {
+  "dex": 599,
+  "name_en": "Klink",
+  "name_es": "Klink",
+  "generation": 5,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/599.png"
+ },
+ {
+  "dex": 600,
+  "name_en": "Klang",
+  "name_es": "Klang",
+  "generation": 5,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/600.png"
+ },
+ {
+  "dex": 601,
+  "name_en": "Klinklang",
+  "name_es": "Klinklang",
+  "generation": 5,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/601.png"
+ },
+ {
+  "dex": 602,
+  "name_en": "Tynamo",
+  "name_es": "Tynamo",
+  "generation": 5,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/602.png"
+ },
+ {
+  "dex": 603,
+  "name_en": "Eelektrik",
+  "name_es": "Eelektrik",
+  "generation": 5,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/603.png"
+ },
+ {
+  "dex": 604,
+  "name_en": "Eelektross",
+  "name_es": "Eelektross",
+  "generation": 5,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/604.png"
+ },
+ {
+  "dex": 605,
+  "name_en": "Elgyem",
+  "name_es": "Elgyem",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/605.png"
+ },
+ {
+  "dex": 606,
+  "name_en": "Beheeyem",
+  "name_es": "Beheeyem",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/606.png"
+ },
+ {
+  "dex": 607,
+  "name_en": "Litwick",
+  "name_es": "Litwick",
+  "generation": 5,
+  "type1": "ghost",
+  "type2": "fire",
+  "static_png": "sprites/static/607.png"
+ },
+ {
+  "dex": 608,
+  "name_en": "Lampent",
+  "name_es": "Lampent",
+  "generation": 5,
+  "type1": "ghost",
+  "type2": "fire",
+  "static_png": "sprites/static/608.png"
+ },
+ {
+  "dex": 609,
+  "name_en": "Chandelure",
+  "name_es": "Chandelure",
+  "generation": 5,
+  "type1": "ghost",
+  "type2": "fire",
+  "static_png": "sprites/static/609.png"
+ },
+ {
+  "dex": 610,
+  "name_en": "Axew",
+  "name_es": "Axew",
+  "generation": 5,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/610.png"
+ },
+ {
+  "dex": 611,
+  "name_en": "Fraxure",
+  "name_es": "Fraxure",
+  "generation": 5,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/611.png"
+ },
+ {
+  "dex": 612,
+  "name_en": "Haxorus",
+  "name_es": "Haxorus",
+  "generation": 5,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/612.png"
+ },
+ {
+  "dex": 613,
+  "name_en": "Cubchoo",
+  "name_es": "Cubchoo",
+  "generation": 5,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/613.png"
+ },
+ {
+  "dex": 614,
+  "name_en": "Beartic",
+  "name_es": "Beartic",
+  "generation": 5,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/614.png"
+ },
+ {
+  "dex": 615,
+  "name_en": "Cryogonal",
+  "name_es": "Cryogonal",
+  "generation": 5,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/615.png"
+ },
+ {
+  "dex": 616,
+  "name_en": "Shelmet",
+  "name_es": "Shelmet",
+  "generation": 5,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/616.png"
+ },
+ {
+  "dex": 617,
+  "name_en": "Accelgor",
+  "name_es": "Accelgor",
+  "generation": 5,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/617.png"
+ },
+ {
+  "dex": 618,
+  "name_en": "Stunfisk",
+  "name_es": "Stunfisk",
+  "generation": 5,
+  "type1": "ground",
+  "type2": "electric",
+  "static_png": "sprites/static/618.png"
+ },
+ {
+  "dex": 619,
+  "name_en": "Mienfoo",
+  "name_es": "Mienfoo",
+  "generation": 5,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/619.png"
+ },
+ {
+  "dex": 620,
+  "name_en": "Mienshao",
+  "name_es": "Mienshao",
+  "generation": 5,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/620.png"
+ },
+ {
+  "dex": 621,
+  "name_en": "Druddigon",
+  "name_es": "Druddigon",
+  "generation": 5,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/621.png"
+ },
+ {
+  "dex": 622,
+  "name_en": "Golett",
+  "name_es": "Golett",
+  "generation": 5,
+  "type1": "ground",
+  "type2": "ghost",
+  "static_png": "sprites/static/622.png"
+ },
+ {
+  "dex": 623,
+  "name_en": "Golurk",
+  "name_es": "Golurk",
+  "generation": 5,
+  "type1": "ground",
+  "type2": "ghost",
+  "static_png": "sprites/static/623.png"
+ },
+ {
+  "dex": 624,
+  "name_en": "Pawniard",
+  "name_es": "Pawniard",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "steel",
+  "static_png": "sprites/static/624.png"
+ },
+ {
+  "dex": 625,
+  "name_en": "Bisharp",
+  "name_es": "Bisharp",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "steel",
+  "static_png": "sprites/static/625.png"
+ },
+ {
+  "dex": 626,
+  "name_en": "Bouffalant",
+  "name_es": "Bouffalant",
+  "generation": 5,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/626.png"
+ },
+ {
+  "dex": 627,
+  "name_en": "Rufflet",
+  "name_es": "Rufflet",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/627.png"
+ },
+ {
+  "dex": 628,
+  "name_en": "Braviary",
+  "name_es": "Braviary",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/628.png"
+ },
+ {
+  "dex": 629,
+  "name_en": "Vullaby",
+  "name_es": "Vullaby",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "flying",
+  "static_png": "sprites/static/629.png"
+ },
+ {
+  "dex": 630,
+  "name_en": "Mandibuzz",
+  "name_es": "Mandibuzz",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "flying",
+  "static_png": "sprites/static/630.png"
+ },
+ {
+  "dex": 631,
+  "name_en": "Heatmor",
+  "name_es": "Heatmor",
+  "generation": 5,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/631.png"
+ },
+ {
+  "dex": 632,
+  "name_en": "Durant",
+  "name_es": "Durant",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "steel",
+  "static_png": "sprites/static/632.png"
+ },
+ {
+  "dex": 633,
+  "name_en": "Deino",
+  "name_es": "Deino",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "dragon",
+  "static_png": "sprites/static/633.png"
+ },
+ {
+  "dex": 634,
+  "name_en": "Zweilous",
+  "name_es": "Zweilous",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "dragon",
+  "static_png": "sprites/static/634.png"
+ },
+ {
+  "dex": 635,
+  "name_en": "Hydreigon",
+  "name_es": "Hydreigon",
+  "generation": 5,
+  "type1": "dark",
+  "type2": "dragon",
+  "static_png": "sprites/static/635.png"
+ },
+ {
+  "dex": 636,
+  "name_en": "Larvesta",
+  "name_es": "Larvesta",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "fire",
+  "static_png": "sprites/static/636.png"
+ },
+ {
+  "dex": 637,
+  "name_en": "Volcarona",
+  "name_es": "Volcarona",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "fire",
+  "static_png": "sprites/static/637.png"
+ },
+ {
+  "dex": 638,
+  "name_en": "Cobalion",
+  "name_es": "Cobalion",
+  "generation": 5,
+  "type1": "steel",
+  "type2": "fighting",
+  "static_png": "sprites/static/638.png"
+ },
+ {
+  "dex": 639,
+  "name_en": "Terrakion",
+  "name_es": "Terrakion",
+  "generation": 5,
+  "type1": "rock",
+  "type2": "fighting",
+  "static_png": "sprites/static/639.png"
+ },
+ {
+  "dex": 640,
+  "name_en": "Virizion",
+  "name_es": "Virizion",
+  "generation": 5,
+  "type1": "grass",
+  "type2": "fighting",
+  "static_png": "sprites/static/640.png"
+ },
+ {
+  "dex": 641,
+  "name_en": "Tornadus",
+  "name_es": "Tornadus",
+  "generation": 5,
+  "type1": "flying",
+  "type2": null,
+  "static_png": "sprites/static/641.png"
+ },
+ {
+  "dex": 642,
+  "name_en": "Thundurus",
+  "name_es": "Thundurus",
+  "generation": 5,
+  "type1": "electric",
+  "type2": "flying",
+  "static_png": "sprites/static/642.png"
+ },
+ {
+  "dex": 643,
+  "name_en": "Reshiram",
+  "name_es": "Reshiram",
+  "generation": 5,
+  "type1": "dragon",
+  "type2": "fire",
+  "static_png": "sprites/static/643.png"
+ },
+ {
+  "dex": 644,
+  "name_en": "Zekrom",
+  "name_es": "Zekrom",
+  "generation": 5,
+  "type1": "dragon",
+  "type2": "electric",
+  "static_png": "sprites/static/644.png"
+ },
+ {
+  "dex": 645,
+  "name_en": "Landorus",
+  "name_es": "Landorus",
+  "generation": 5,
+  "type1": "ground",
+  "type2": "flying",
+  "static_png": "sprites/static/645.png"
+ },
+ {
+  "dex": 646,
+  "name_en": "Kyurem",
+  "name_es": "Kyurem",
+  "generation": 5,
+  "type1": "dragon",
+  "type2": "ice",
+  "static_png": "sprites/static/646.png"
+ },
+ {
+  "dex": 647,
+  "name_en": "Keldeo",
+  "name_es": "Keldeo",
+  "generation": 5,
+  "type1": "water",
+  "type2": "fighting",
+  "static_png": "sprites/static/647.png"
+ },
+ {
+  "dex": 648,
+  "name_en": "Meloetta",
+  "name_es": "Meloetta",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "psychic",
+  "static_png": "sprites/static/648.png"
+ },
+ {
+  "dex": 649,
+  "name_en": "Genesect",
+  "name_es": "Genesect",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "steel",
+  "static_png": "sprites/static/649.png"
+ },
+ {
+  "dex": 650,
+  "name_en": "Chespin",
+  "name_es": "Chespin",
+  "generation": 6,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/650.png"
+ },
+ {
+  "dex": 651,
+  "name_en": "Quilladin",
+  "name_es": "Quilladin",
+  "generation": 6,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/651.png"
+ },
+ {
+  "dex": 652,
+  "name_en": "Chesnaught",
+  "name_es": "Chesnaught",
+  "generation": 6,
+  "type1": "grass",
+  "type2": "fighting",
+  "static_png": "sprites/static/652.png"
+ },
+ {
+  "dex": 653,
+  "name_en": "Fennekin",
+  "name_es": "Fennekin",
+  "generation": 6,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/653.png"
+ },
+ {
+  "dex": 654,
+  "name_en": "Braixen",
+  "name_es": "Braixen",
+  "generation": 6,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/654.png"
+ },
+ {
+  "dex": 655,
+  "name_en": "Delphox",
+  "name_es": "Delphox",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "psychic",
+  "static_png": "sprites/static/655.png"
+ },
+ {
+  "dex": 656,
+  "name_en": "Froakie",
+  "name_es": "Froakie",
+  "generation": 6,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/656.png"
+ },
+ {
+  "dex": 657,
+  "name_en": "Frogadier",
+  "name_es": "Frogadier",
+  "generation": 6,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/657.png"
+ },
+ {
+  "dex": 658,
+  "name_en": "Greninja",
+  "name_es": "Greninja",
+  "generation": 6,
+  "type1": "water",
+  "type2": "dark",
+  "static_png": "sprites/static/658.png"
+ },
+ {
+  "dex": 659,
+  "name_en": "Bunnelby",
+  "name_es": "Bunnelby",
+  "generation": 6,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/659.png"
+ },
+ {
+  "dex": 660,
+  "name_en": "Diggersby",
+  "name_es": "Diggersby",
+  "generation": 6,
+  "type1": "normal",
+  "type2": "ground",
+  "static_png": "sprites/static/660.png"
+ },
+ {
+  "dex": 661,
+  "name_en": "Fletchling",
+  "name_es": "Fletchling",
+  "generation": 6,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/661.png"
+ },
+ {
+  "dex": 662,
+  "name_en": "Fletchinder",
+  "name_es": "Fletchinder",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "flying",
+  "static_png": "sprites/static/662.png"
+ },
+ {
+  "dex": 663,
+  "name_en": "Talonflame",
+  "name_es": "Talonflame",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "flying",
+  "static_png": "sprites/static/663.png"
+ },
+ {
+  "dex": 664,
+  "name_en": "Scatterbug",
+  "name_es": "Scatterbug",
+  "generation": 6,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/664.png"
+ },
+ {
+  "dex": 665,
+  "name_en": "Spewpa",
+  "name_es": "Spewpa",
+  "generation": 6,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/665.png"
+ },
+ {
+  "dex": 666,
+  "name_en": "Vivillon",
+  "name_es": "Vivillon",
+  "generation": 6,
+  "type1": "bug",
+  "type2": "flying",
+  "static_png": "sprites/static/666.png"
+ },
+ {
+  "dex": 667,
+  "name_en": "Litleo",
+  "name_es": "Litleo",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "normal",
+  "static_png": "sprites/static/667.png"
+ },
+ {
+  "dex": 668,
+  "name_en": "Pyroar",
+  "name_es": "Pyroar",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "normal",
+  "static_png": "sprites/static/668.png"
+ },
+ {
+  "dex": 669,
+  "name_en": "Flabébé",
+  "name_es": "Flabébé",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/669.png"
+ },
+ {
+  "dex": 670,
+  "name_en": "Floette",
+  "name_es": "Floette",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/670.png"
+ },
+ {
+  "dex": 671,
+  "name_en": "Florges",
+  "name_es": "Florges",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/671.png"
+ },
+ {
+  "dex": 672,
+  "name_en": "Skiddo",
+  "name_es": "Skiddo",
+  "generation": 6,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/672.png"
+ },
+ {
+  "dex": 673,
+  "name_en": "Gogoat",
+  "name_es": "Gogoat",
+  "generation": 6,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/673.png"
+ },
+ {
+  "dex": 674,
+  "name_en": "Pancham",
+  "name_es": "Pancham",
+  "generation": 6,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/674.png"
+ },
+ {
+  "dex": 675,
+  "name_en": "Pangoro",
+  "name_es": "Pangoro",
+  "generation": 6,
+  "type1": "fighting",
+  "type2": "dark",
+  "static_png": "sprites/static/675.png"
+ },
+ {
+  "dex": 676,
+  "name_en": "Furfrou",
+  "name_es": "Furfrou",
+  "generation": 6,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/676.png"
+ },
+ {
+  "dex": 677,
+  "name_en": "Espurr",
+  "name_es": "Espurr",
+  "generation": 6,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/677.png"
+ },
+ {
+  "dex": 678,
+  "name_en": "Meowstic",
+  "name_es": "Meowstic",
+  "generation": 6,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/678.png"
+ },
+ {
+  "dex": 679,
+  "name_en": "Honedge",
+  "name_es": "Honedge",
+  "generation": 6,
+  "type1": "steel",
+  "type2": "ghost",
+  "static_png": "sprites/static/679.png"
+ },
+ {
+  "dex": 680,
+  "name_en": "Doublade",
+  "name_es": "Doublade",
+  "generation": 6,
+  "type1": "steel",
+  "type2": "ghost",
+  "static_png": "sprites/static/680.png"
+ },
+ {
+  "dex": 681,
+  "name_en": "Aegislash",
+  "name_es": "Aegislash",
+  "generation": 6,
+  "type1": "steel",
+  "type2": "ghost",
+  "static_png": "sprites/static/681.png"
+ },
+ {
+  "dex": 682,
+  "name_en": "Spritzee",
+  "name_es": "Spritzee",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/682.png"
+ },
+ {
+  "dex": 683,
+  "name_en": "Aromatisse",
+  "name_es": "Aromatisse",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/683.png"
+ },
+ {
+  "dex": 684,
+  "name_en": "Swirlix",
+  "name_es": "Swirlix",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/684.png"
+ },
+ {
+  "dex": 685,
+  "name_en": "Slurpuff",
+  "name_es": "Slurpuff",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/685.png"
+ },
+ {
+  "dex": 686,
+  "name_en": "Inkay",
+  "name_es": "Inkay",
+  "generation": 6,
+  "type1": "dark",
+  "type2": "psychic",
+  "static_png": "sprites/static/686.png"
+ },
+ {
+  "dex": 687,
+  "name_en": "Malamar",
+  "name_es": "Malamar",
+  "generation": 6,
+  "type1": "dark",
+  "type2": "psychic",
+  "static_png": "sprites/static/687.png"
+ },
+ {
+  "dex": 688,
+  "name_en": "Binacle",
+  "name_es": "Binacle",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "water",
+  "static_png": "sprites/static/688.png"
+ },
+ {
+  "dex": 689,
+  "name_en": "Barbaracle",
+  "name_es": "Barbaracle",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "water",
+  "static_png": "sprites/static/689.png"
+ },
+ {
+  "dex": 690,
+  "name_en": "Skrelp",
+  "name_es": "Skrelp",
+  "generation": 6,
+  "type1": "poison",
+  "type2": "water",
+  "static_png": "sprites/static/690.png"
+ },
+ {
+  "dex": 691,
+  "name_en": "Dragalge",
+  "name_es": "Dragalge",
+  "generation": 6,
+  "type1": "poison",
+  "type2": "dragon",
+  "static_png": "sprites/static/691.png"
+ },
+ {
+  "dex": 692,
+  "name_en": "Clauncher",
+  "name_es": "Clauncher",
+  "generation": 6,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/692.png"
+ },
+ {
+  "dex": 693,
+  "name_en": "Clawitzer",
+  "name_es": "Clawitzer",
+  "generation": 6,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/693.png"
+ },
+ {
+  "dex": 694,
+  "name_en": "Helioptile",
+  "name_es": "Helioptile",
+  "generation": 6,
+  "type1": "electric",
+  "type2": "normal",
+  "static_png": "sprites/static/694.png"
+ },
+ {
+  "dex": 695,
+  "name_en": "Heliolisk",
+  "name_es": "Heliolisk",
+  "generation": 6,
+  "type1": "electric",
+  "type2": "normal",
+  "static_png": "sprites/static/695.png"
+ },
+ {
+  "dex": 696,
+  "name_en": "Tyrunt",
+  "name_es": "Tyrunt",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "dragon",
+  "static_png": "sprites/static/696.png"
+ },
+ {
+  "dex": 697,
+  "name_en": "Tyrantrum",
+  "name_es": "Tyrantrum",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "dragon",
+  "static_png": "sprites/static/697.png"
+ },
+ {
+  "dex": 698,
+  "name_en": "Amaura",
+  "name_es": "Amaura",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "ice",
+  "static_png": "sprites/static/698.png"
+ },
+ {
+  "dex": 699,
+  "name_en": "Aurorus",
+  "name_es": "Aurorus",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "ice",
+  "static_png": "sprites/static/699.png"
+ },
+ {
+  "dex": 700,
+  "name_en": "Sylveon",
+  "name_es": "Sylveon",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/700.png"
+ },
+ {
+  "dex": 701,
+  "name_en": "Hawlucha",
+  "name_es": "Hawlucha",
+  "generation": 6,
+  "type1": "fighting",
+  "type2": "flying",
+  "static_png": "sprites/static/701.png"
+ },
+ {
+  "dex": 702,
+  "name_en": "Dedenne",
+  "name_es": "Dedenne",
+  "generation": 6,
+  "type1": "electric",
+  "type2": "fairy",
+  "static_png": "sprites/static/702.png"
+ },
+ {
+  "dex": 703,
+  "name_en": "Carbink",
+  "name_es": "Carbink",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "fairy",
+  "static_png": "sprites/static/703.png"
+ },
+ {
+  "dex": 704,
+  "name_en": "Goomy",
+  "name_es": "Goomy",
+  "generation": 6,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/704.png"
+ },
+ {
+  "dex": 705,
+  "name_en": "Sliggoo",
+  "name_es": "Sliggoo",
+  "generation": 6,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/705.png"
+ },
+ {
+  "dex": 706,
+  "name_en": "Goodra",
+  "name_es": "Goodra",
+  "generation": 6,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/706.png"
+ },
+ {
+  "dex": 707,
+  "name_en": "Klefki",
+  "name_es": "Klefki",
+  "generation": 6,
+  "type1": "steel",
+  "type2": "fairy",
+  "static_png": "sprites/static/707.png"
+ },
+ {
+  "dex": 708,
+  "name_en": "Phantump",
+  "name_es": "Phantump",
+  "generation": 6,
+  "type1": "ghost",
+  "type2": "grass",
+  "static_png": "sprites/static/708.png"
+ },
+ {
+  "dex": 709,
+  "name_en": "Trevenant",
+  "name_es": "Trevenant",
+  "generation": 6,
+  "type1": "ghost",
+  "type2": "grass",
+  "static_png": "sprites/static/709.png"
+ },
+ {
+  "dex": 710,
+  "name_en": "Pumpkaboo",
+  "name_es": "Pumpkaboo",
+  "generation": 6,
+  "type1": "ghost",
+  "type2": "grass",
+  "static_png": "sprites/static/710.png"
+ },
+ {
+  "dex": 711,
+  "name_en": "Gourgeist",
+  "name_es": "Gourgeist",
+  "generation": 6,
+  "type1": "ghost",
+  "type2": "grass",
+  "static_png": "sprites/static/711.png"
+ },
+ {
+  "dex": 712,
+  "name_en": "Bergmite",
+  "name_es": "Bergmite",
+  "generation": 6,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/712.png"
+ },
+ {
+  "dex": 713,
+  "name_en": "Avalugg",
+  "name_es": "Avalugg",
+  "generation": 6,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/713.png"
+ },
+ {
+  "dex": 714,
+  "name_en": "Noibat",
+  "name_es": "Noibat",
+  "generation": 6,
+  "type1": "flying",
+  "type2": "dragon",
+  "static_png": "sprites/static/714.png"
+ },
+ {
+  "dex": 715,
+  "name_en": "Noivern",
+  "name_es": "Noivern",
+  "generation": 6,
+  "type1": "flying",
+  "type2": "dragon",
+  "static_png": "sprites/static/715.png"
+ },
+ {
+  "dex": 716,
+  "name_en": "Xerneas",
+  "name_es": "Xerneas",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/716.png"
+ },
+ {
+  "dex": 717,
+  "name_en": "Yveltal",
+  "name_es": "Yveltal",
+  "generation": 6,
+  "type1": "dark",
+  "type2": "flying",
+  "static_png": "sprites/static/717.png"
+ },
+ {
+  "dex": 718,
+  "name_en": "Zygarde",
+  "name_es": "Zygarde",
+  "generation": 6,
+  "type1": "dragon",
+  "type2": "ground",
+  "static_png": "sprites/static/718.png"
+ },
+ {
+  "dex": 719,
+  "name_en": "Diancie",
+  "name_es": "Diancie",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "fairy",
+  "static_png": "sprites/static/719.png"
+ },
+ {
+  "dex": 720,
+  "name_en": "Hoopa",
+  "name_es": "Hoopa",
+  "generation": 6,
+  "type1": "psychic",
+  "type2": "ghost",
+  "static_png": "sprites/static/720.png"
+ },
+ {
+  "dex": 721,
+  "name_en": "Volcanion",
+  "name_es": "Volcanion",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "water",
+  "static_png": "sprites/static/721.png"
+ },
+ {
+  "dex": 722,
+  "name_en": "Rowlet",
+  "name_es": "Rowlet",
+  "generation": 7,
+  "type1": "grass",
+  "type2": "flying",
+  "static_png": "sprites/static/722.png"
+ },
+ {
+  "dex": 723,
+  "name_en": "Dartrix",
+  "name_es": "Dartrix",
+  "generation": 7,
+  "type1": "grass",
+  "type2": "flying",
+  "static_png": "sprites/static/723.png"
+ },
+ {
+  "dex": 724,
+  "name_en": "Decidueye",
+  "name_es": "Decidueye",
+  "generation": 7,
+  "type1": "grass",
+  "type2": "ghost",
+  "static_png": "sprites/static/724.png"
+ },
+ {
+  "dex": 725,
+  "name_en": "Litten",
+  "name_es": "Litten",
+  "generation": 7,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/725.png"
+ },
+ {
+  "dex": 726,
+  "name_en": "Torracat",
+  "name_es": "Torracat",
+  "generation": 7,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/726.png"
+ },
+ {
+  "dex": 727,
+  "name_en": "Incineroar",
+  "name_es": "Incineroar",
+  "generation": 7,
+  "type1": "fire",
+  "type2": "dark",
+  "static_png": "sprites/static/727.png"
+ },
+ {
+  "dex": 728,
+  "name_en": "Popplio",
+  "name_es": "Popplio",
+  "generation": 7,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/728.png"
+ },
+ {
+  "dex": 729,
+  "name_en": "Brionne",
+  "name_es": "Brionne",
+  "generation": 7,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/729.png"
+ },
+ {
+  "dex": 730,
+  "name_en": "Primarina",
+  "name_es": "Primarina",
+  "generation": 7,
+  "type1": "water",
+  "type2": "fairy",
+  "static_png": "sprites/static/730.png"
+ },
+ {
+  "dex": 731,
+  "name_en": "Pikipek",
+  "name_es": "Pikipek",
+  "generation": 7,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/731.png"
+ },
+ {
+  "dex": 732,
+  "name_en": "Trumbeak",
+  "name_es": "Trumbeak",
+  "generation": 7,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/732.png"
+ },
+ {
+  "dex": 733,
+  "name_en": "Toucannon",
+  "name_es": "Toucannon",
+  "generation": 7,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/733.png"
+ },
+ {
+  "dex": 734,
+  "name_en": "Yungoos",
+  "name_es": "Yungoos",
+  "generation": 7,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/734.png"
+ },
+ {
+  "dex": 735,
+  "name_en": "Gumshoos",
+  "name_es": "Gumshoos",
+  "generation": 7,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/735.png"
+ },
+ {
+  "dex": 736,
+  "name_en": "Grubbin",
+  "name_es": "Grubbin",
+  "generation": 7,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/736.png"
+ },
+ {
+  "dex": 737,
+  "name_en": "Charjabug",
+  "name_es": "Charjabug",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "electric",
+  "static_png": "sprites/static/737.png"
+ },
+ {
+  "dex": 738,
+  "name_en": "Vikavolt",
+  "name_es": "Vikavolt",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "electric",
+  "static_png": "sprites/static/738.png"
+ },
+ {
+  "dex": 739,
+  "name_en": "Crabrawler",
+  "name_es": "Crabrawler",
+  "generation": 7,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/739.png"
+ },
+ {
+  "dex": 740,
+  "name_en": "Crabominable",
+  "name_es": "Crabominable",
+  "generation": 7,
+  "type1": "fighting",
+  "type2": "ice",
+  "static_png": "sprites/static/740.png"
+ },
+ {
+  "dex": 741,
+  "name_en": "Oricorio",
+  "name_es": "Oricorio",
+  "generation": 7,
+  "type1": "fire",
+  "type2": "flying",
+  "static_png": "sprites/static/741.png"
+ },
+ {
+  "dex": 742,
+  "name_en": "Cutiefly",
+  "name_es": "Cutiefly",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "fairy",
+  "static_png": "sprites/static/742.png"
+ },
+ {
+  "dex": 743,
+  "name_en": "Ribombee",
+  "name_es": "Ribombee",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "fairy",
+  "static_png": "sprites/static/743.png"
+ },
+ {
+  "dex": 744,
+  "name_en": "Rockruff",
+  "name_es": "Rockruff",
+  "generation": 7,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/744.png"
+ },
+ {
+  "dex": 745,
+  "name_en": "Lycanroc",
+  "name_es": "Lycanroc",
+  "generation": 7,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/745.png"
+ },
+ {
+  "dex": 746,
+  "name_en": "Wishiwashi",
+  "name_es": "Wishiwashi",
+  "generation": 7,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/746.png"
+ },
+ {
+  "dex": 747,
+  "name_en": "Mareanie",
+  "name_es": "Mareanie",
+  "generation": 7,
+  "type1": "poison",
+  "type2": "water",
+  "static_png": "sprites/static/747.png"
+ },
+ {
+  "dex": 748,
+  "name_en": "Toxapex",
+  "name_es": "Toxapex",
+  "generation": 7,
+  "type1": "poison",
+  "type2": "water",
+  "static_png": "sprites/static/748.png"
+ },
+ {
+  "dex": 749,
+  "name_en": "Mudbray",
+  "name_es": "Mudbray",
+  "generation": 7,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/749.png"
+ },
+ {
+  "dex": 750,
+  "name_en": "Mudsdale",
+  "name_es": "Mudsdale",
+  "generation": 7,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/750.png"
+ },
+ {
+  "dex": 751,
+  "name_en": "Dewpider",
+  "name_es": "Dewpider",
+  "generation": 7,
+  "type1": "water",
+  "type2": "bug",
+  "static_png": "sprites/static/751.png"
+ },
+ {
+  "dex": 752,
+  "name_en": "Araquanid",
+  "name_es": "Araquanid",
+  "generation": 7,
+  "type1": "water",
+  "type2": "bug",
+  "static_png": "sprites/static/752.png"
+ },
+ {
+  "dex": 753,
+  "name_en": "Fomantis",
+  "name_es": "Fomantis",
+  "generation": 7,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/753.png"
+ },
+ {
+  "dex": 754,
+  "name_en": "Lurantis",
+  "name_es": "Lurantis",
+  "generation": 7,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/754.png"
+ },
+ {
+  "dex": 755,
+  "name_en": "Morelull",
+  "name_es": "Morelull",
+  "generation": 7,
+  "type1": "grass",
+  "type2": "fairy",
+  "static_png": "sprites/static/755.png"
+ },
+ {
+  "dex": 756,
+  "name_en": "Shiinotic",
+  "name_es": "Shiinotic",
+  "generation": 7,
+  "type1": "grass",
+  "type2": "fairy",
+  "static_png": "sprites/static/756.png"
+ },
+ {
+  "dex": 757,
+  "name_en": "Salandit",
+  "name_es": "Salandit",
+  "generation": 7,
+  "type1": "poison",
+  "type2": "fire",
+  "static_png": "sprites/static/757.png"
+ },
+ {
+  "dex": 758,
+  "name_en": "Salazzle",
+  "name_es": "Salazzle",
+  "generation": 7,
+  "type1": "poison",
+  "type2": "fire",
+  "static_png": "sprites/static/758.png"
+ },
+ {
+  "dex": 759,
+  "name_en": "Stufful",
+  "name_es": "Stufful",
+  "generation": 7,
+  "type1": "normal",
+  "type2": "fighting",
+  "static_png": "sprites/static/759.png"
+ },
+ {
+  "dex": 760,
+  "name_en": "Bewear",
+  "name_es": "Bewear",
+  "generation": 7,
+  "type1": "normal",
+  "type2": "fighting",
+  "static_png": "sprites/static/760.png"
+ },
+ {
+  "dex": 761,
+  "name_en": "Bounsweet",
+  "name_es": "Bounsweet",
+  "generation": 7,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/761.png"
+ },
+ {
+  "dex": 762,
+  "name_en": "Steenee",
+  "name_es": "Steenee",
+  "generation": 7,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/762.png"
+ },
+ {
+  "dex": 763,
+  "name_en": "Tsareena",
+  "name_es": "Tsareena",
+  "generation": 7,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/763.png"
+ },
+ {
+  "dex": 764,
+  "name_en": "Comfey",
+  "name_es": "Comfey",
+  "generation": 7,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/764.png"
+ },
+ {
+  "dex": 765,
+  "name_en": "Oranguru",
+  "name_es": "Oranguru",
+  "generation": 7,
+  "type1": "normal",
+  "type2": "psychic",
+  "static_png": "sprites/static/765.png"
+ },
+ {
+  "dex": 766,
+  "name_en": "Passimian",
+  "name_es": "Passimian",
+  "generation": 7,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/766.png"
+ },
+ {
+  "dex": 767,
+  "name_en": "Wimpod",
+  "name_es": "Wimpod",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "water",
+  "static_png": "sprites/static/767.png"
+ },
+ {
+  "dex": 768,
+  "name_en": "Golisopod",
+  "name_es": "Golisopod",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "water",
+  "static_png": "sprites/static/768.png"
+ },
+ {
+  "dex": 769,
+  "name_en": "Sandygast",
+  "name_es": "Sandygast",
+  "generation": 7,
+  "type1": "ghost",
+  "type2": "ground",
+  "static_png": "sprites/static/769.png"
+ },
+ {
+  "dex": 770,
+  "name_en": "Palossand",
+  "name_es": "Palossand",
+  "generation": 7,
+  "type1": "ghost",
+  "type2": "ground",
+  "static_png": "sprites/static/770.png"
+ },
+ {
+  "dex": 771,
+  "name_en": "Pyukumuku",
+  "name_es": "Pyukumuku",
+  "generation": 7,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/771.png"
+ },
+ {
+  "dex": 772,
+  "name_en": "Type: Null",
+  "name_es": "Código Cero",
+  "generation": 7,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/772.png"
+ },
+ {
+  "dex": 773,
+  "name_en": "Silvally",
+  "name_es": "Silvally",
+  "generation": 7,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/773.png"
+ },
+ {
+  "dex": 774,
+  "name_en": "Minior",
+  "name_es": "Minior",
+  "generation": 7,
+  "type1": "rock",
+  "type2": "flying",
+  "static_png": "sprites/static/774.png"
+ },
+ {
+  "dex": 775,
+  "name_en": "Komala",
+  "name_es": "Komala",
+  "generation": 7,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/775.png"
+ },
+ {
+  "dex": 776,
+  "name_en": "Turtonator",
+  "name_es": "Turtonator",
+  "generation": 7,
+  "type1": "fire",
+  "type2": "dragon",
+  "static_png": "sprites/static/776.png"
+ },
+ {
+  "dex": 777,
+  "name_en": "Togedemaru",
+  "name_es": "Togedemaru",
+  "generation": 7,
+  "type1": "electric",
+  "type2": "steel",
+  "static_png": "sprites/static/777.png"
+ },
+ {
+  "dex": 778,
+  "name_en": "Mimikyu",
+  "name_es": "Mimikyu",
+  "generation": 7,
+  "type1": "ghost",
+  "type2": "fairy",
+  "static_png": "sprites/static/778.png"
+ },
+ {
+  "dex": 779,
+  "name_en": "Bruxish",
+  "name_es": "Bruxish",
+  "generation": 7,
+  "type1": "water",
+  "type2": "psychic",
+  "static_png": "sprites/static/779.png"
+ },
+ {
+  "dex": 780,
+  "name_en": "Drampa",
+  "name_es": "Drampa",
+  "generation": 7,
+  "type1": "normal",
+  "type2": "dragon",
+  "static_png": "sprites/static/780.png"
+ },
+ {
+  "dex": 781,
+  "name_en": "Dhelmise",
+  "name_es": "Dhelmise",
+  "generation": 7,
+  "type1": "ghost",
+  "type2": "grass",
+  "static_png": "sprites/static/781.png"
+ },
+ {
+  "dex": 782,
+  "name_en": "Jangmo-o",
+  "name_es": "Jangmo-o",
+  "generation": 7,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/782.png"
+ },
+ {
+  "dex": 783,
+  "name_en": "Hakamo-o",
+  "name_es": "Hakamo-o",
+  "generation": 7,
+  "type1": "dragon",
+  "type2": "fighting",
+  "static_png": "sprites/static/783.png"
+ },
+ {
+  "dex": 784,
+  "name_en": "Kommo-o",
+  "name_es": "Kommo-o",
+  "generation": 7,
+  "type1": "dragon",
+  "type2": "fighting",
+  "static_png": "sprites/static/784.png"
+ },
+ {
+  "dex": 785,
+  "name_en": "Tapu Koko",
+  "name_es": "Tapu Koko",
+  "generation": 7,
+  "type1": "electric",
+  "type2": "fairy",
+  "static_png": "sprites/static/785.png"
+ },
+ {
+  "dex": 786,
+  "name_en": "Tapu Lele",
+  "name_es": "Tapu Lele",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": "fairy",
+  "static_png": "sprites/static/786.png"
+ },
+ {
+  "dex": 787,
+  "name_en": "Tapu Bulu",
+  "name_es": "Tapu Bulu",
+  "generation": 7,
+  "type1": "grass",
+  "type2": "fairy",
+  "static_png": "sprites/static/787.png"
+ },
+ {
+  "dex": 788,
+  "name_en": "Tapu Fini",
+  "name_es": "Tapu Fini",
+  "generation": 7,
+  "type1": "water",
+  "type2": "fairy",
+  "static_png": "sprites/static/788.png"
+ },
+ {
+  "dex": 789,
+  "name_en": "Cosmog",
+  "name_es": "Cosmog",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/789.png"
+ },
+ {
+  "dex": 790,
+  "name_en": "Cosmoem",
+  "name_es": "Cosmoem",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/790.png"
+ },
+ {
+  "dex": 791,
+  "name_en": "Solgaleo",
+  "name_es": "Solgaleo",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": "steel",
+  "static_png": "sprites/static/791.png"
+ },
+ {
+  "dex": 792,
+  "name_en": "Lunala",
+  "name_es": "Lunala",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": "ghost",
+  "static_png": "sprites/static/792.png"
+ },
+ {
+  "dex": 793,
+  "name_en": "Nihilego",
+  "name_es": "Nihilego",
+  "generation": 7,
+  "type1": "rock",
+  "type2": "poison",
+  "static_png": "sprites/static/793.png"
+ },
+ {
+  "dex": 794,
+  "name_en": "Buzzwole",
+  "name_es": "Buzzwole",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "fighting",
+  "static_png": "sprites/static/794.png"
+ },
+ {
+  "dex": 795,
+  "name_en": "Pheromosa",
+  "name_es": "Pheromosa",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "fighting",
+  "static_png": "sprites/static/795.png"
+ },
+ {
+  "dex": 796,
+  "name_en": "Xurkitree",
+  "name_es": "Xurkitree",
+  "generation": 7,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/796.png"
+ },
+ {
+  "dex": 797,
+  "name_en": "Celesteela",
+  "name_es": "Celesteela",
+  "generation": 7,
+  "type1": "steel",
+  "type2": "flying",
+  "static_png": "sprites/static/797.png"
+ },
+ {
+  "dex": 798,
+  "name_en": "Kartana",
+  "name_es": "Kartana",
+  "generation": 7,
+  "type1": "grass",
+  "type2": "steel",
+  "static_png": "sprites/static/798.png"
+ },
+ {
+  "dex": 799,
+  "name_en": "Guzzlord",
+  "name_es": "Guzzlord",
+  "generation": 7,
+  "type1": "dark",
+  "type2": "dragon",
+  "static_png": "sprites/static/799.png"
+ },
+ {
+  "dex": 800,
+  "name_en": "Necrozma",
+  "name_es": "Necrozma",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/800.png"
+ },
+ {
+  "dex": 801,
+  "name_en": "Magearna",
+  "name_es": "Magearna",
+  "generation": 7,
+  "type1": "steel",
+  "type2": "fairy",
+  "static_png": "sprites/static/801.png"
+ },
+ {
+  "dex": 802,
+  "name_en": "Marshadow",
+  "name_es": "Marshadow",
+  "generation": 7,
+  "type1": "fighting",
+  "type2": "ghost",
+  "static_png": "sprites/static/802.png"
+ },
+ {
+  "dex": 803,
+  "name_en": "Poipole",
+  "name_es": "Poipole",
+  "generation": 7,
+  "type1": "poison",
+  "type2": null,
+  "static_png": "sprites/static/803.png"
+ },
+ {
+  "dex": 804,
+  "name_en": "Naganadel",
+  "name_es": "Naganadel",
+  "generation": 7,
+  "type1": "poison",
+  "type2": "dragon",
+  "static_png": "sprites/static/804.png"
+ },
+ {
+  "dex": 805,
+  "name_en": "Stakataka",
+  "name_es": "Stakataka",
+  "generation": 7,
+  "type1": "rock",
+  "type2": "steel",
+  "static_png": "sprites/static/805.png"
+ },
+ {
+  "dex": 806,
+  "name_en": "Blacephalon",
+  "name_es": "Blacephalon",
+  "generation": 7,
+  "type1": "fire",
+  "type2": "ghost",
+  "static_png": "sprites/static/806.png"
+ },
+ {
+  "dex": 807,
+  "name_en": "Zeraora",
+  "name_es": "Zeraora",
+  "generation": 7,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/807.png"
+ },
+ {
+  "dex": 808,
+  "name_en": "Meltan",
+  "name_es": "Meltan",
+  "generation": 7,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/808.png"
+ },
+ {
+  "dex": 809,
+  "name_en": "Melmetal",
+  "name_es": "Melmetal",
+  "generation": 7,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/809.png"
+ },
+ {
+  "dex": 810,
+  "name_en": "Grookey",
+  "name_es": "Grookey",
+  "generation": 8,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/810.png"
+ },
+ {
+  "dex": 811,
+  "name_en": "Thwackey",
+  "name_es": "Thwackey",
+  "generation": 8,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/811.png"
+ },
+ {
+  "dex": 812,
+  "name_en": "Rillaboom",
+  "name_es": "Rillaboom",
+  "generation": 8,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/812.png"
+ },
+ {
+  "dex": 813,
+  "name_en": "Scorbunny",
+  "name_es": "Scorbunny",
+  "generation": 8,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/813.png"
+ },
+ {
+  "dex": 814,
+  "name_en": "Raboot",
+  "name_es": "Raboot",
+  "generation": 8,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/814.png"
+ },
+ {
+  "dex": 815,
+  "name_en": "Cinderace",
+  "name_es": "Cinderace",
+  "generation": 8,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/815.png"
+ },
+ {
+  "dex": 816,
+  "name_en": "Sobble",
+  "name_es": "Sobble",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/816.png"
+ },
+ {
+  "dex": 817,
+  "name_en": "Drizzile",
+  "name_es": "Drizzile",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/817.png"
+ },
+ {
+  "dex": 818,
+  "name_en": "Inteleon",
+  "name_es": "Inteleon",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/818.png"
+ },
+ {
+  "dex": 819,
+  "name_en": "Skwovet",
+  "name_es": "Skwovet",
+  "generation": 8,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/819.png"
+ },
+ {
+  "dex": 820,
+  "name_en": "Greedent",
+  "name_es": "Greedent",
+  "generation": 8,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/820.png"
+ },
+ {
+  "dex": 821,
+  "name_en": "Rookidee",
+  "name_es": "Rookidee",
+  "generation": 8,
+  "type1": "flying",
+  "type2": null,
+  "static_png": "sprites/static/821.png"
+ },
+ {
+  "dex": 822,
+  "name_en": "Corvisquire",
+  "name_es": "Corvisquire",
+  "generation": 8,
+  "type1": "flying",
+  "type2": null,
+  "static_png": "sprites/static/822.png"
+ },
+ {
+  "dex": 823,
+  "name_en": "Corviknight",
+  "name_es": "Corviknight",
+  "generation": 8,
+  "type1": "flying",
+  "type2": "steel",
+  "static_png": "sprites/static/823.png"
+ },
+ {
+  "dex": 824,
+  "name_en": "Blipbug",
+  "name_es": "Blipbug",
+  "generation": 8,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/824.png"
+ },
+ {
+  "dex": 825,
+  "name_en": "Dottler",
+  "name_es": "Dottler",
+  "generation": 8,
+  "type1": "bug",
+  "type2": "psychic",
+  "static_png": "sprites/static/825.png"
+ },
+ {
+  "dex": 826,
+  "name_en": "Orbeetle",
+  "name_es": "Orbeetle",
+  "generation": 8,
+  "type1": "bug",
+  "type2": "psychic",
+  "static_png": "sprites/static/826.png"
+ },
+ {
+  "dex": 827,
+  "name_en": "Nickit",
+  "name_es": "Nickit",
+  "generation": 8,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/827.png"
+ },
+ {
+  "dex": 828,
+  "name_en": "Thievul",
+  "name_es": "Thievul",
+  "generation": 8,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/828.png"
+ },
+ {
+  "dex": 829,
+  "name_en": "Gossifleur",
+  "name_es": "Gossifleur",
+  "generation": 8,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/829.png"
+ },
+ {
+  "dex": 830,
+  "name_en": "Eldegoss",
+  "name_es": "Eldegoss",
+  "generation": 8,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/830.png"
+ },
+ {
+  "dex": 831,
+  "name_en": "Wooloo",
+  "name_es": "Wooloo",
+  "generation": 8,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/831.png"
+ },
+ {
+  "dex": 832,
+  "name_en": "Dubwool",
+  "name_es": "Dubwool",
+  "generation": 8,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/832.png"
+ },
+ {
+  "dex": 833,
+  "name_en": "Chewtle",
+  "name_es": "Chewtle",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/833.png"
+ },
+ {
+  "dex": 834,
+  "name_en": "Drednaw",
+  "name_es": "Drednaw",
+  "generation": 8,
+  "type1": "water",
+  "type2": "rock",
+  "static_png": "sprites/static/834.png"
+ },
+ {
+  "dex": 835,
+  "name_en": "Yamper",
+  "name_es": "Yamper",
+  "generation": 8,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/835.png"
+ },
+ {
+  "dex": 836,
+  "name_en": "Boltund",
+  "name_es": "Boltund",
+  "generation": 8,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/836.png"
+ },
+ {
+  "dex": 837,
+  "name_en": "Rolycoly",
+  "name_es": "Rolycoly",
+  "generation": 8,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/837.png"
+ },
+ {
+  "dex": 838,
+  "name_en": "Carkol",
+  "name_es": "Carkol",
+  "generation": 8,
+  "type1": "rock",
+  "type2": "fire",
+  "static_png": "sprites/static/838.png"
+ },
+ {
+  "dex": 839,
+  "name_en": "Coalossal",
+  "name_es": "Coalossal",
+  "generation": 8,
+  "type1": "rock",
+  "type2": "fire",
+  "static_png": "sprites/static/839.png"
+ },
+ {
+  "dex": 840,
+  "name_en": "Applin",
+  "name_es": "Applin",
+  "generation": 8,
+  "type1": "grass",
+  "type2": "dragon",
+  "static_png": "sprites/static/840.png"
+ },
+ {
+  "dex": 841,
+  "name_en": "Flapple",
+  "name_es": "Flapple",
+  "generation": 8,
+  "type1": "grass",
+  "type2": "dragon",
+  "static_png": "sprites/static/841.png"
+ },
+ {
+  "dex": 842,
+  "name_en": "Appletun",
+  "name_es": "Appletun",
+  "generation": 8,
+  "type1": "grass",
+  "type2": "dragon",
+  "static_png": "sprites/static/842.png"
+ },
+ {
+  "dex": 843,
+  "name_en": "Silicobra",
+  "name_es": "Silicobra",
+  "generation": 8,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/843.png"
+ },
+ {
+  "dex": 844,
+  "name_en": "Sandaconda",
+  "name_es": "Sandaconda",
+  "generation": 8,
+  "type1": "ground",
+  "type2": null,
+  "static_png": "sprites/static/844.png"
+ },
+ {
+  "dex": 845,
+  "name_en": "Cramorant",
+  "name_es": "Cramorant",
+  "generation": 8,
+  "type1": "flying",
+  "type2": "water",
+  "static_png": "sprites/static/845.png"
+ },
+ {
+  "dex": 846,
+  "name_en": "Arrokuda",
+  "name_es": "Arrokuda",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/846.png"
+ },
+ {
+  "dex": 847,
+  "name_en": "Barraskewda",
+  "name_es": "Barraskewda",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/847.png"
+ },
+ {
+  "dex": 848,
+  "name_en": "Toxel",
+  "name_es": "Toxel",
+  "generation": 8,
+  "type1": "electric",
+  "type2": "poison",
+  "static_png": "sprites/static/848.png"
+ },
+ {
+  "dex": 849,
+  "name_en": "Toxtricity",
+  "name_es": "Toxtricity",
+  "generation": 8,
+  "type1": "electric",
+  "type2": "poison",
+  "static_png": "sprites/static/849.png"
+ },
+ {
+  "dex": 850,
+  "name_en": "Sizzlipede",
+  "name_es": "Sizzlipede",
+  "generation": 8,
+  "type1": "fire",
+  "type2": "bug",
+  "static_png": "sprites/static/850.png"
+ },
+ {
+  "dex": 851,
+  "name_en": "Centiskorch",
+  "name_es": "Centiskorch",
+  "generation": 8,
+  "type1": "fire",
+  "type2": "bug",
+  "static_png": "sprites/static/851.png"
+ },
+ {
+  "dex": 852,
+  "name_en": "Clobbopus",
+  "name_es": "Clobbopus",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/852.png"
+ },
+ {
+  "dex": 853,
+  "name_en": "Grapploct",
+  "name_es": "Grapploct",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/853.png"
+ },
+ {
+  "dex": 854,
+  "name_en": "Sinistea",
+  "name_es": "Sinistea",
+  "generation": 8,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/854.png"
+ },
+ {
+  "dex": 855,
+  "name_en": "Polteageist",
+  "name_es": "Polteageist",
+  "generation": 8,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/855.png"
+ },
+ {
+  "dex": 856,
+  "name_en": "Hatenna",
+  "name_es": "Hatenna",
+  "generation": 8,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/856.png"
+ },
+ {
+  "dex": 857,
+  "name_en": "Hattrem",
+  "name_es": "Hattrem",
+  "generation": 8,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/857.png"
+ },
+ {
+  "dex": 858,
+  "name_en": "Hatterene",
+  "name_es": "Hatterene",
+  "generation": 8,
+  "type1": "psychic",
+  "type2": "fairy",
+  "static_png": "sprites/static/858.png"
+ },
+ {
+  "dex": 859,
+  "name_en": "Impidimp",
+  "name_es": "Impidimp",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "fairy",
+  "static_png": "sprites/static/859.png"
+ },
+ {
+  "dex": 860,
+  "name_en": "Morgrem",
+  "name_es": "Morgrem",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "fairy",
+  "static_png": "sprites/static/860.png"
+ },
+ {
+  "dex": 861,
+  "name_en": "Grimmsnarl",
+  "name_es": "Grimmsnarl",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "fairy",
+  "static_png": "sprites/static/861.png"
+ },
+ {
+  "dex": 862,
+  "name_en": "Obstagoon",
+  "name_es": "Obstagoon",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "normal",
+  "static_png": "sprites/static/862.png"
+ },
+ {
+  "dex": 863,
+  "name_en": "Perrserker",
+  "name_es": "Perrserker",
+  "generation": 8,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/863.png"
+ },
+ {
+  "dex": 864,
+  "name_en": "Cursola",
+  "name_es": "Cursola",
+  "generation": 8,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/864.png"
+ },
+ {
+  "dex": 865,
+  "name_en": "Sirfetch’d",
+  "name_es": "Sirfetch’d",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/865.png"
+ },
+ {
+  "dex": 866,
+  "name_en": "Mr. Rime",
+  "name_es": "Mr. Rime",
+  "generation": 8,
+  "type1": "ice",
+  "type2": "psychic",
+  "static_png": "sprites/static/866.png"
+ },
+ {
+  "dex": 867,
+  "name_en": "Runerigus",
+  "name_es": "Runerigus",
+  "generation": 8,
+  "type1": "ground",
+  "type2": "ghost",
+  "static_png": "sprites/static/867.png"
+ },
+ {
+  "dex": 868,
+  "name_en": "Milcery",
+  "name_es": "Milcery",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/868.png"
+ },
+ {
+  "dex": 869,
+  "name_en": "Alcremie",
+  "name_es": "Alcremie",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/869.png"
+ },
+ {
+  "dex": 870,
+  "name_en": "Falinks",
+  "name_es": "Falinks",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/870.png"
+ },
+ {
+  "dex": 871,
+  "name_en": "Pincurchin",
+  "name_es": "Pincurchin",
+  "generation": 8,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/871.png"
+ },
+ {
+  "dex": 872,
+  "name_en": "Snom",
+  "name_es": "Snom",
+  "generation": 8,
+  "type1": "ice",
+  "type2": "bug",
+  "static_png": "sprites/static/872.png"
+ },
+ {
+  "dex": 873,
+  "name_en": "Frosmoth",
+  "name_es": "Frosmoth",
+  "generation": 8,
+  "type1": "ice",
+  "type2": "bug",
+  "static_png": "sprites/static/873.png"
+ },
+ {
+  "dex": 874,
+  "name_en": "Stonjourner",
+  "name_es": "Stonjourner",
+  "generation": 8,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/874.png"
+ },
+ {
+  "dex": 875,
+  "name_en": "Eiscue",
+  "name_es": "Eiscue",
+  "generation": 8,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/875.png"
+ },
+ {
+  "dex": 876,
+  "name_en": "Indeedee",
+  "name_es": "Indeedee",
+  "generation": 8,
+  "type1": "psychic",
+  "type2": "normal",
+  "static_png": "sprites/static/876.png"
+ },
+ {
+  "dex": 877,
+  "name_en": "Morpeko",
+  "name_es": "Morpeko",
+  "generation": 8,
+  "type1": "electric",
+  "type2": "dark",
+  "static_png": "sprites/static/877.png"
+ },
+ {
+  "dex": 878,
+  "name_en": "Cufant",
+  "name_es": "Cufant",
+  "generation": 8,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/878.png"
+ },
+ {
+  "dex": 879,
+  "name_en": "Copperajah",
+  "name_es": "Copperajah",
+  "generation": 8,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/879.png"
+ },
+ {
+  "dex": 880,
+  "name_en": "Dracozolt",
+  "name_es": "Dracozolt",
+  "generation": 8,
+  "type1": "electric",
+  "type2": "dragon",
+  "static_png": "sprites/static/880.png"
+ },
+ {
+  "dex": 881,
+  "name_en": "Arctozolt",
+  "name_es": "Arctozolt",
+  "generation": 8,
+  "type1": "electric",
+  "type2": "ice",
+  "static_png": "sprites/static/881.png"
+ },
+ {
+  "dex": 882,
+  "name_en": "Dracovish",
+  "name_es": "Dracovish",
+  "generation": 8,
+  "type1": "water",
+  "type2": "dragon",
+  "static_png": "sprites/static/882.png"
+ },
+ {
+  "dex": 883,
+  "name_en": "Arctovish",
+  "name_es": "Arctovish",
+  "generation": 8,
+  "type1": "water",
+  "type2": "ice",
+  "static_png": "sprites/static/883.png"
+ },
+ {
+  "dex": 884,
+  "name_en": "Duraludon",
+  "name_es": "Duraludon",
+  "generation": 8,
+  "type1": "steel",
+  "type2": "dragon",
+  "static_png": "sprites/static/884.png"
+ },
+ {
+  "dex": 885,
+  "name_en": "Dreepy",
+  "name_es": "Dreepy",
+  "generation": 8,
+  "type1": "dragon",
+  "type2": "ghost",
+  "static_png": "sprites/static/885.png"
+ },
+ {
+  "dex": 886,
+  "name_en": "Drakloak",
+  "name_es": "Drakloak",
+  "generation": 8,
+  "type1": "dragon",
+  "type2": "ghost",
+  "static_png": "sprites/static/886.png"
+ },
+ {
+  "dex": 887,
+  "name_en": "Dragapult",
+  "name_es": "Dragapult",
+  "generation": 8,
+  "type1": "dragon",
+  "type2": "ghost",
+  "static_png": "sprites/static/887.png"
+ },
+ {
+  "dex": 888,
+  "name_en": "Zacian",
+  "name_es": "Zacian",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/888.png"
+ },
+ {
+  "dex": 889,
+  "name_en": "Zamazenta",
+  "name_es": "Zamazenta",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/889.png"
+ },
+ {
+  "dex": 890,
+  "name_en": "Eternatus",
+  "name_es": "Eternatus",
+  "generation": 8,
+  "type1": "poison",
+  "type2": "dragon",
+  "static_png": "sprites/static/890.png"
+ },
+ {
+  "dex": 891,
+  "name_en": "Kubfu",
+  "name_es": "Kubfu",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": null,
+  "static_png": "sprites/static/891.png"
+ },
+ {
+  "dex": 892,
+  "name_en": "Urshifu",
+  "name_es": "Urshifu",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": "dark",
+  "static_png": "sprites/static/892.png"
+ },
+ {
+  "dex": 893,
+  "name_en": "Zarude",
+  "name_es": "Zarude",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "grass",
+  "static_png": "sprites/static/893.png"
+ },
+ {
+  "dex": 894,
+  "name_en": "Regieleki",
+  "name_es": "Regieleki",
+  "generation": 8,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/894.png"
+ },
+ {
+  "dex": 895,
+  "name_en": "Regidrago",
+  "name_es": "Regidrago",
+  "generation": 8,
+  "type1": "dragon",
+  "type2": null,
+  "static_png": "sprites/static/895.png"
+ },
+ {
+  "dex": 896,
+  "name_en": "Glastrier",
+  "name_es": "Glastrier",
+  "generation": 8,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/896.png"
+ },
+ {
+  "dex": 897,
+  "name_en": "Spectrier",
+  "name_es": "Spectrier",
+  "generation": 8,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/897.png"
+ },
+ {
+  "dex": 898,
+  "name_en": "Calyrex",
+  "name_es": "Calyrex",
+  "generation": 8,
+  "type1": "psychic",
+  "type2": "grass",
+  "static_png": "sprites/static/898.png"
+ },
+ {
+  "dex": 899,
+  "name_en": "Wyrdeer",
+  "name_es": "Wyrdeer",
+  "generation": 8,
+  "type1": "normal",
+  "type2": "psychic",
+  "static_png": "sprites/static/899.png"
+ },
+ {
+  "dex": 900,
+  "name_en": "Kleavor",
+  "name_es": "Kleavor",
+  "generation": 8,
+  "type1": "bug",
+  "type2": "rock",
+  "static_png": "sprites/static/900.png"
+ },
+ {
+  "dex": 901,
+  "name_en": "Ursaluna",
+  "name_es": "Ursaluna",
+  "generation": 8,
+  "type1": "ground",
+  "type2": "normal",
+  "static_png": "sprites/static/901.png"
+ },
+ {
+  "dex": 902,
+  "name_en": "Basculegion",
+  "name_es": "Basculegion",
+  "generation": 8,
+  "type1": "water",
+  "type2": "ghost",
+  "static_png": "sprites/static/902.png"
+ },
+ {
+  "dex": 903,
+  "name_en": "Sneasler",
+  "name_es": "Sneasler",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": "poison",
+  "static_png": "sprites/static/903.png"
+ },
+ {
+  "dex": 904,
+  "name_en": "Overqwil",
+  "name_es": "Overqwil",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "poison",
+  "static_png": "sprites/static/904.png"
+ },
+ {
+  "dex": 905,
+  "name_en": "Enamorus",
+  "name_es": "Enamorus",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": "flying",
+  "static_png": "sprites/static/905.png"
+ },
+ {
+  "dex": 906,
+  "name_en": "Sprigatito",
+  "name_es": "Sprigatito",
+  "generation": 9,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/906.png"
+ },
+ {
+  "dex": 907,
+  "name_en": "Floragato",
+  "name_es": "Floragato",
+  "generation": 9,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/907.png"
+ },
+ {
+  "dex": 908,
+  "name_en": "Meowscarada",
+  "name_es": "Meowscarada",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "dark",
+  "static_png": "sprites/static/908.png"
+ },
+ {
+  "dex": 909,
+  "name_en": "Fuecoco",
+  "name_es": "Fuecoco",
+  "generation": 9,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/909.png"
+ },
+ {
+  "dex": 910,
+  "name_en": "Crocalor",
+  "name_es": "Crocalor",
+  "generation": 9,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/910.png"
+ },
+ {
+  "dex": 911,
+  "name_en": "Skeledirge",
+  "name_es": "Skeledirge",
+  "generation": 9,
+  "type1": "fire",
+  "type2": "ghost",
+  "static_png": "sprites/static/911.png"
+ },
+ {
+  "dex": 912,
+  "name_en": "Quaxly",
+  "name_es": "Quaxly",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/912.png"
+ },
+ {
+  "dex": 913,
+  "name_en": "Quaxwell",
+  "name_es": "Quaxwell",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/913.png"
+ },
+ {
+  "dex": 914,
+  "name_en": "Quaquaval",
+  "name_es": "Quaquaval",
+  "generation": 9,
+  "type1": "water",
+  "type2": "fighting",
+  "static_png": "sprites/static/914.png"
+ },
+ {
+  "dex": 915,
+  "name_en": "Lechonk",
+  "name_es": "Lechonk",
+  "generation": 9,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/915.png"
+ },
+ {
+  "dex": 916,
+  "name_en": "Oinkologne",
+  "name_es": "Oinkologne",
+  "generation": 9,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/916.png"
+ },
+ {
+  "dex": 917,
+  "name_en": "Tarountula",
+  "name_es": "Tarountula",
+  "generation": 9,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/917.png"
+ },
+ {
+  "dex": 918,
+  "name_en": "Spidops",
+  "name_es": "Spidops",
+  "generation": 9,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/918.png"
+ },
+ {
+  "dex": 919,
+  "name_en": "Nymble",
+  "name_es": "Nymble",
+  "generation": 9,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/919.png"
+ },
+ {
+  "dex": 920,
+  "name_en": "Lokix",
+  "name_es": "Lokix",
+  "generation": 9,
+  "type1": "bug",
+  "type2": "dark",
+  "static_png": "sprites/static/920.png"
+ },
+ {
+  "dex": 921,
+  "name_en": "Pawmi",
+  "name_es": "Pawmi",
+  "generation": 9,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/921.png"
+ },
+ {
+  "dex": 922,
+  "name_en": "Pawmo",
+  "name_es": "Pawmo",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "fighting",
+  "static_png": "sprites/static/922.png"
+ },
+ {
+  "dex": 923,
+  "name_en": "Pawmot",
+  "name_es": "Pawmot",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "fighting",
+  "static_png": "sprites/static/923.png"
+ },
+ {
+  "dex": 924,
+  "name_en": "Tandemaus",
+  "name_es": "Tandemaus",
+  "generation": 9,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/924.png"
+ },
+ {
+  "dex": 925,
+  "name_en": "Maushold",
+  "name_es": "Maushold",
+  "generation": 9,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/925.png"
+ },
+ {
+  "dex": 926,
+  "name_en": "Fidough",
+  "name_es": "Fidough",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/926.png"
+ },
+ {
+  "dex": 927,
+  "name_en": "Dachsbun",
+  "name_es": "Dachsbun",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": null,
+  "static_png": "sprites/static/927.png"
+ },
+ {
+  "dex": 928,
+  "name_en": "Smoliv",
+  "name_es": "Smoliv",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "normal",
+  "static_png": "sprites/static/928.png"
+ },
+ {
+  "dex": 929,
+  "name_en": "Dolliv",
+  "name_es": "Dolliv",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "normal",
+  "static_png": "sprites/static/929.png"
+ },
+ {
+  "dex": 930,
+  "name_en": "Arboliva",
+  "name_es": "Arboliva",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "normal",
+  "static_png": "sprites/static/930.png"
+ },
+ {
+  "dex": 931,
+  "name_en": "Squawkabilly",
+  "name_es": "Squawkabilly",
+  "generation": 9,
+  "type1": "normal",
+  "type2": "flying",
+  "static_png": "sprites/static/931.png"
+ },
+ {
+  "dex": 932,
+  "name_en": "Nacli",
+  "name_es": "Nacli",
+  "generation": 9,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/932.png"
+ },
+ {
+  "dex": 933,
+  "name_en": "Naclstack",
+  "name_es": "Naclstack",
+  "generation": 9,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/933.png"
+ },
+ {
+  "dex": 934,
+  "name_en": "Garganacl",
+  "name_es": "Garganacl",
+  "generation": 9,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/934.png"
+ },
+ {
+  "dex": 935,
+  "name_en": "Charcadet",
+  "name_es": "Charcadet",
+  "generation": 9,
+  "type1": "fire",
+  "type2": null,
+  "static_png": "sprites/static/935.png"
+ },
+ {
+  "dex": 936,
+  "name_en": "Armarouge",
+  "name_es": "Armarouge",
+  "generation": 9,
+  "type1": "fire",
+  "type2": "psychic",
+  "static_png": "sprites/static/936.png"
+ },
+ {
+  "dex": 937,
+  "name_en": "Ceruledge",
+  "name_es": "Ceruledge",
+  "generation": 9,
+  "type1": "fire",
+  "type2": "ghost",
+  "static_png": "sprites/static/937.png"
+ },
+ {
+  "dex": 938,
+  "name_en": "Tadbulb",
+  "name_es": "Tadbulb",
+  "generation": 9,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/938.png"
+ },
+ {
+  "dex": 939,
+  "name_en": "Bellibolt",
+  "name_es": "Bellibolt",
+  "generation": 9,
+  "type1": "electric",
+  "type2": null,
+  "static_png": "sprites/static/939.png"
+ },
+ {
+  "dex": 940,
+  "name_en": "Wattrel",
+  "name_es": "Wattrel",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "flying",
+  "static_png": "sprites/static/940.png"
+ },
+ {
+  "dex": 941,
+  "name_en": "Kilowattrel",
+  "name_es": "Kilowattrel",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "flying",
+  "static_png": "sprites/static/941.png"
+ },
+ {
+  "dex": 942,
+  "name_en": "Maschiff",
+  "name_es": "Maschiff",
+  "generation": 9,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/942.png"
+ },
+ {
+  "dex": 943,
+  "name_en": "Mabosstiff",
+  "name_es": "Mabosstiff",
+  "generation": 9,
+  "type1": "dark",
+  "type2": null,
+  "static_png": "sprites/static/943.png"
+ },
+ {
+  "dex": 944,
+  "name_en": "Shroodle",
+  "name_es": "Shroodle",
+  "generation": 9,
+  "type1": "poison",
+  "type2": "normal",
+  "static_png": "sprites/static/944.png"
+ },
+ {
+  "dex": 945,
+  "name_en": "Grafaiai",
+  "name_es": "Grafaiai",
+  "generation": 9,
+  "type1": "poison",
+  "type2": "normal",
+  "static_png": "sprites/static/945.png"
+ },
+ {
+  "dex": 946,
+  "name_en": "Bramblin",
+  "name_es": "Bramblin",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "ghost",
+  "static_png": "sprites/static/946.png"
+ },
+ {
+  "dex": 947,
+  "name_en": "Brambleghast",
+  "name_es": "Brambleghast",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "ghost",
+  "static_png": "sprites/static/947.png"
+ },
+ {
+  "dex": 948,
+  "name_en": "Toedscool",
+  "name_es": "Toedscool",
+  "generation": 9,
+  "type1": "ground",
+  "type2": "grass",
+  "static_png": "sprites/static/948.png"
+ },
+ {
+  "dex": 949,
+  "name_en": "Toedscruel",
+  "name_es": "Toedscruel",
+  "generation": 9,
+  "type1": "ground",
+  "type2": "grass",
+  "static_png": "sprites/static/949.png"
+ },
+ {
+  "dex": 950,
+  "name_en": "Klawf",
+  "name_es": "Klawf",
+  "generation": 9,
+  "type1": "rock",
+  "type2": null,
+  "static_png": "sprites/static/950.png"
+ },
+ {
+  "dex": 951,
+  "name_en": "Capsakid",
+  "name_es": "Capsakid",
+  "generation": 9,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/951.png"
+ },
+ {
+  "dex": 952,
+  "name_en": "Scovillain",
+  "name_es": "Scovillain",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "fire",
+  "static_png": "sprites/static/952.png"
+ },
+ {
+  "dex": 953,
+  "name_en": "Rellor",
+  "name_es": "Rellor",
+  "generation": 9,
+  "type1": "bug",
+  "type2": null,
+  "static_png": "sprites/static/953.png"
+ },
+ {
+  "dex": 954,
+  "name_en": "Rabsca",
+  "name_es": "Rabsca",
+  "generation": 9,
+  "type1": "bug",
+  "type2": "psychic",
+  "static_png": "sprites/static/954.png"
+ },
+ {
+  "dex": 955,
+  "name_en": "Flittle",
+  "name_es": "Flittle",
+  "generation": 9,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/955.png"
+ },
+ {
+  "dex": 956,
+  "name_en": "Espathra",
+  "name_es": "Espathra",
+  "generation": 9,
+  "type1": "psychic",
+  "type2": null,
+  "static_png": "sprites/static/956.png"
+ },
+ {
+  "dex": 957,
+  "name_en": "Tinkatink",
+  "name_es": "Tinkatink",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": "steel",
+  "static_png": "sprites/static/957.png"
+ },
+ {
+  "dex": 958,
+  "name_en": "Tinkatuff",
+  "name_es": "Tinkatuff",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": "steel",
+  "static_png": "sprites/static/958.png"
+ },
+ {
+  "dex": 959,
+  "name_en": "Tinkaton",
+  "name_es": "Tinkaton",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": "steel",
+  "static_png": "sprites/static/959.png"
+ },
+ {
+  "dex": 960,
+  "name_en": "Wiglett",
+  "name_es": "Wiglett",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/960.png"
+ },
+ {
+  "dex": 961,
+  "name_en": "Wugtrio",
+  "name_es": "Wugtrio",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/961.png"
+ },
+ {
+  "dex": 962,
+  "name_en": "Bombirdier",
+  "name_es": "Bombirdier",
+  "generation": 9,
+  "type1": "flying",
+  "type2": "dark",
+  "static_png": "sprites/static/962.png"
+ },
+ {
+  "dex": 963,
+  "name_en": "Finizen",
+  "name_es": "Finizen",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/963.png"
+ },
+ {
+  "dex": 964,
+  "name_en": "Palafin",
+  "name_es": "Palafin",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/964.png"
+ },
+ {
+  "dex": 965,
+  "name_en": "Varoom",
+  "name_es": "Varoom",
+  "generation": 9,
+  "type1": "steel",
+  "type2": "poison",
+  "static_png": "sprites/static/965.png"
+ },
+ {
+  "dex": 966,
+  "name_en": "Revavroom",
+  "name_es": "Revavroom",
+  "generation": 9,
+  "type1": "steel",
+  "type2": "poison",
+  "static_png": "sprites/static/966.png"
+ },
+ {
+  "dex": 967,
+  "name_en": "Cyclizar",
+  "name_es": "Cyclizar",
+  "generation": 9,
+  "type1": "dragon",
+  "type2": "normal",
+  "static_png": "sprites/static/967.png"
+ },
+ {
+  "dex": 968,
+  "name_en": "Orthworm",
+  "name_es": "Orthworm",
+  "generation": 9,
+  "type1": "steel",
+  "type2": null,
+  "static_png": "sprites/static/968.png"
+ },
+ {
+  "dex": 969,
+  "name_en": "Glimmet",
+  "name_es": "Glimmet",
+  "generation": 9,
+  "type1": "rock",
+  "type2": "poison",
+  "static_png": "sprites/static/969.png"
+ },
+ {
+  "dex": 970,
+  "name_en": "Glimmora",
+  "name_es": "Glimmora",
+  "generation": 9,
+  "type1": "rock",
+  "type2": "poison",
+  "static_png": "sprites/static/970.png"
+ },
+ {
+  "dex": 971,
+  "name_en": "Greavard",
+  "name_es": "Greavard",
+  "generation": 9,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/971.png"
+ },
+ {
+  "dex": 972,
+  "name_en": "Houndstone",
+  "name_es": "Houndstone",
+  "generation": 9,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/972.png"
+ },
+ {
+  "dex": 973,
+  "name_en": "Flamigo",
+  "name_es": "Flamigo",
+  "generation": 9,
+  "type1": "flying",
+  "type2": "fighting",
+  "static_png": "sprites/static/973.png"
+ },
+ {
+  "dex": 974,
+  "name_en": "Cetoddle",
+  "name_es": "Cetoddle",
+  "generation": 9,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/974.png"
+ },
+ {
+  "dex": 975,
+  "name_en": "Cetitan",
+  "name_es": "Cetitan",
+  "generation": 9,
+  "type1": "ice",
+  "type2": null,
+  "static_png": "sprites/static/975.png"
+ },
+ {
+  "dex": 976,
+  "name_en": "Veluza",
+  "name_es": "Veluza",
+  "generation": 9,
+  "type1": "water",
+  "type2": "psychic",
+  "static_png": "sprites/static/976.png"
+ },
+ {
+  "dex": 977,
+  "name_en": "Dondozo",
+  "name_es": "Dondozo",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "static_png": "sprites/static/977.png"
+ },
+ {
+  "dex": 978,
+  "name_en": "Tatsugiri",
+  "name_es": "Tatsugiri",
+  "generation": 9,
+  "type1": "dragon",
+  "type2": "water",
+  "static_png": "sprites/static/978.png"
+ },
+ {
+  "dex": 979,
+  "name_en": "Annihilape",
+  "name_es": "Annihilape",
+  "generation": 9,
+  "type1": "fighting",
+  "type2": "ghost",
+  "static_png": "sprites/static/979.png"
+ },
+ {
+  "dex": 980,
+  "name_en": "Clodsire",
+  "name_es": "Clodsire",
+  "generation": 9,
+  "type1": "poison",
+  "type2": "ground",
+  "static_png": "sprites/static/980.png"
+ },
+ {
+  "dex": 981,
+  "name_en": "Farigiraf",
+  "name_es": "Farigiraf",
+  "generation": 9,
+  "type1": "normal",
+  "type2": "psychic",
+  "static_png": "sprites/static/981.png"
+ },
+ {
+  "dex": 982,
+  "name_en": "Dudunsparce",
+  "name_es": "Dudunsparce",
+  "generation": 9,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/982.png"
+ },
+ {
+  "dex": 983,
+  "name_en": "Kingambit",
+  "name_es": "Kingambit",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "steel",
+  "static_png": "sprites/static/983.png"
+ },
+ {
+  "dex": 984,
+  "name_en": "Great Tusk",
+  "name_es": "Colmilargo",
+  "generation": 9,
+  "type1": "ground",
+  "type2": "fighting",
+  "static_png": "sprites/static/984.png"
+ },
+ {
+  "dex": 985,
+  "name_en": "Scream Tail",
+  "name_es": "Colagrito",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": "psychic",
+  "static_png": "sprites/static/985.png"
+ },
+ {
+  "dex": 986,
+  "name_en": "Brute Bonnet",
+  "name_es": "Furioseta",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "dark",
+  "static_png": "sprites/static/986.png"
+ },
+ {
+  "dex": 987,
+  "name_en": "Flutter Mane",
+  "name_es": "Melenaleteo",
+  "generation": 9,
+  "type1": "ghost",
+  "type2": "fairy",
+  "static_png": "sprites/static/987.png"
+ },
+ {
+  "dex": 988,
+  "name_en": "Slither Wing",
+  "name_es": "Reptalada",
+  "generation": 9,
+  "type1": "bug",
+  "type2": "fighting",
+  "static_png": "sprites/static/988.png"
+ },
+ {
+  "dex": 989,
+  "name_en": "Sandy Shocks",
+  "name_es": "Pelarena",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "ground",
+  "static_png": "sprites/static/989.png"
+ },
+ {
+  "dex": 990,
+  "name_en": "Iron Treads",
+  "name_es": "Ferrodada",
+  "generation": 9,
+  "type1": "ground",
+  "type2": "steel",
+  "static_png": "sprites/static/990.png"
+ },
+ {
+  "dex": 991,
+  "name_en": "Iron Bundle",
+  "name_es": "Ferrosaco",
+  "generation": 9,
+  "type1": "ice",
+  "type2": "water",
+  "static_png": "sprites/static/991.png"
+ },
+ {
+  "dex": 992,
+  "name_en": "Iron Hands",
+  "name_es": "Ferropalmas",
+  "generation": 9,
+  "type1": "fighting",
+  "type2": "electric",
+  "static_png": "sprites/static/992.png"
+ },
+ {
+  "dex": 993,
+  "name_en": "Iron Jugulis",
+  "name_es": "Ferrocuello",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "flying",
+  "static_png": "sprites/static/993.png"
+ },
+ {
+  "dex": 994,
+  "name_en": "Iron Moth",
+  "name_es": "Ferropolilla",
+  "generation": 9,
+  "type1": "fire",
+  "type2": "poison",
+  "static_png": "sprites/static/994.png"
+ },
+ {
+  "dex": 995,
+  "name_en": "Iron Thorns",
+  "name_es": "Ferropúas",
+  "generation": 9,
+  "type1": "rock",
+  "type2": "electric",
+  "static_png": "sprites/static/995.png"
+ },
+ {
+  "dex": 996,
+  "name_en": "Frigibax",
+  "name_es": "Frigibax",
+  "generation": 9,
+  "type1": "dragon",
+  "type2": "ice",
+  "static_png": "sprites/static/996.png"
+ },
+ {
+  "dex": 997,
+  "name_en": "Arctibax",
+  "name_es": "Arctibax",
+  "generation": 9,
+  "type1": "dragon",
+  "type2": "ice",
+  "static_png": "sprites/static/997.png"
+ },
+ {
+  "dex": 998,
+  "name_en": "Baxcalibur",
+  "name_es": "Baxcalibur",
+  "generation": 9,
+  "type1": "dragon",
+  "type2": "ice",
+  "static_png": "sprites/static/998.png"
+ },
+ {
+  "dex": 999,
+  "name_en": "Gimmighoul",
+  "name_es": "Gimmighoul",
+  "generation": 9,
+  "type1": "ghost",
+  "type2": null,
+  "static_png": "sprites/static/999.png"
+ },
+ {
+  "dex": 1000,
+  "name_en": "Gholdengo",
+  "name_es": "Gholdengo",
+  "generation": 9,
+  "type1": "steel",
+  "type2": "ghost",
+  "static_png": "sprites/static/1000.png"
+ },
+ {
+  "dex": 1001,
+  "name_en": "Wo-Chien",
+  "name_es": "Wo-Chien",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "grass",
+  "static_png": "sprites/static/1001.png"
+ },
+ {
+  "dex": 1002,
+  "name_en": "Chien-Pao",
+  "name_es": "Chien-Pao",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "ice",
+  "static_png": "sprites/static/1002.png"
+ },
+ {
+  "dex": 1003,
+  "name_en": "Ting-Lu",
+  "name_es": "Ting-Lu",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "ground",
+  "static_png": "sprites/static/1003.png"
+ },
+ {
+  "dex": 1004,
+  "name_en": "Chi-Yu",
+  "name_es": "Chi-Yu",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "fire",
+  "static_png": "sprites/static/1004.png"
+ },
+ {
+  "dex": 1005,
+  "name_en": "Roaring Moon",
+  "name_es": "Bramaluna",
+  "generation": 9,
+  "type1": "dragon",
+  "type2": "dark",
+  "static_png": "sprites/static/1005.png"
+ },
+ {
+  "dex": 1006,
+  "name_en": "Iron Valiant",
+  "name_es": "Ferropaladín",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": "fighting",
+  "static_png": "sprites/static/1006.png"
+ },
+ {
+  "dex": 1007,
+  "name_en": "Koraidon",
+  "name_es": "Koraidon",
+  "generation": 9,
+  "type1": "fighting",
+  "type2": "dragon",
+  "static_png": "sprites/static/1007.png"
+ },
+ {
+  "dex": 1008,
+  "name_en": "Miraidon",
+  "name_es": "Miraidon",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "dragon",
+  "static_png": "sprites/static/1008.png"
+ },
+ {
+  "dex": 1009,
+  "name_en": "Walking Wake",
+  "name_es": "Ondulagua",
+  "generation": 9,
+  "type1": "water",
+  "type2": "dragon",
+  "static_png": "sprites/static/1009.png"
+ },
+ {
+  "dex": 1010,
+  "name_en": "Iron Leaves",
+  "name_es": "Ferroverdor",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "psychic",
+  "static_png": "sprites/static/1010.png"
+ },
+ {
+  "dex": 1011,
+  "name_en": "Dipplin",
+  "name_es": "Dipplin",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "dragon",
+  "static_png": "sprites/static/1011.png"
+ },
+ {
+  "dex": 1012,
+  "name_en": "Poltchageist",
+  "name_es": "Poltchageist",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "ghost",
+  "static_png": "sprites/static/1012.png"
+ },
+ {
+  "dex": 1013,
+  "name_en": "Sinistcha",
+  "name_es": "Sinistcha",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "ghost",
+  "static_png": "sprites/static/1013.png"
+ },
+ {
+  "dex": 1014,
+  "name_en": "Okidogi",
+  "name_es": "Okidogi",
+  "generation": 9,
+  "type1": "poison",
+  "type2": "fighting",
+  "static_png": "sprites/static/1014.png"
+ },
+ {
+  "dex": 1015,
+  "name_en": "Munkidori",
+  "name_es": "Munkidori",
+  "generation": 9,
+  "type1": "poison",
+  "type2": "psychic",
+  "static_png": "sprites/static/1015.png"
+ },
+ {
+  "dex": 1016,
+  "name_en": "Fezandipiti",
+  "name_es": "Fezandipiti",
+  "generation": 9,
+  "type1": "poison",
+  "type2": "fairy",
+  "static_png": "sprites/static/1016.png"
+ },
+ {
+  "dex": 1017,
+  "name_en": "Ogerpon",
+  "name_es": "Ogerpon",
+  "generation": 9,
+  "type1": "grass",
+  "type2": null,
+  "static_png": "sprites/static/1017.png"
+ },
+ {
+  "dex": 1018,
+  "name_en": "Archaludon",
+  "name_es": "Archaludon",
+  "generation": 9,
+  "type1": "steel",
+  "type2": "dragon",
+  "static_png": "sprites/static/1018.png"
+ },
+ {
+  "dex": 1019,
+  "name_en": "Hydrapple",
+  "name_es": "Hydrapple",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "dragon",
+  "static_png": "sprites/static/1019.png"
+ },
+ {
+  "dex": 1020,
+  "name_en": "Gouging Fire",
+  "name_es": "Flamariete",
+  "generation": 9,
+  "type1": "fire",
+  "type2": "dragon",
+  "static_png": "sprites/static/1020.png"
+ },
+ {
+  "dex": 1021,
+  "name_en": "Raging Bolt",
+  "name_es": "Electrofuria",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "dragon",
+  "static_png": "sprites/static/1021.png"
+ },
+ {
+  "dex": 1022,
+  "name_en": "Iron Boulder",
+  "name_es": "Ferromole",
+  "generation": 9,
+  "type1": "rock",
+  "type2": "psychic",
+  "static_png": "sprites/static/1022.png"
+ },
+ {
+  "dex": 1023,
+  "name_en": "Iron Crown",
+  "name_es": "Ferrotesta",
+  "generation": 9,
+  "type1": "steel",
+  "type2": "psychic",
+  "static_png": "sprites/static/1023.png"
+ },
+ {
+  "dex": 1024,
+  "name_en": "Terapagos",
+  "name_es": "Terapagos",
+  "generation": 9,
+  "type1": "normal",
+  "type2": null,
+  "static_png": "sprites/static/1024.png"
+ },
+ {
+  "dex": 1025,
+  "name_en": "Pecharunt",
+  "name_es": "Pecharunt",
+  "generation": 9,
+  "type1": "poison",
+  "type2": "ghost",
+  "static_png": "sprites/static/1025.png"
+ }
+]
