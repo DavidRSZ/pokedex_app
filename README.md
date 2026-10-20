@@ -1,17 +1,26 @@
-# prueba_app
+# Pokédex
 
-A new Flutter project.
+Aplicación hecha con Flutter para consultar la Pokédex de todas las generaciones de Pokémon. Es un proyecto personal, pensado para mis amigos y para mi portfolio.
 
-## Getting Started
+## Estado actual
 
-This project is a starting point for a Flutter application.
+- Pantalla de carga (splash) al abrir la app.
+- Pantalla principal con barra superior, menú lateral y botón de filtro.
+- Rejilla con los 151 Pokémon de la primera generación, 6 por fila.
 
-A few resources to get you started if this is your first Flutter project:
+Próximamente: el resto de generaciones, nombres y tipos, filtros y ficha de cada Pokémon.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Cómo ejecutarla
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Necesitas tener [Flutter](https://docs.flutter.dev/get-started/install) instalado.
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Créditos y aviso legal
+
+Pokémon y todos los nombres, imágenes y sprites relacionados son propiedad de Nintendo, Game Freak y The Pokémon Company. Este es un proyecto de fans sin ánimo de lucro y no está afiliado ni respaldado por ellos.
+
+Los sprites y los datos proceden de [PokeAPI](https://pokeapi.co/) ([PokeAPI/sprites](https://github.com/PokeAPI/sprites) y [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi)).
