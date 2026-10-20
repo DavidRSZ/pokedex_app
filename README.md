@@ -10,15 +10,6 @@ Aplicación hecha con Flutter para consultar la Pokédex de todas las generacion
 
 Próximamente: el resto de generaciones, nombres y tipos, filtros y ficha de cada Pokémon.
 
-## Cómo ejecutarla
-
-Necesitas tener [Flutter](https://docs.flutter.dev/get-started/install) instalado.
-
-```bash
-flutter pub get
-flutter run
-```
-
 ## Créditos y aviso legal
 
 Pokémon y todos los nombres, imágenes y sprites relacionados son propiedad de Nintendo, Game Freak y The Pokémon Company. Este es un proyecto de fans sin ánimo de lucro y no está afiliado ni respaldado por ellos.
