@@ -6,12 +6,11 @@ void main() {
   testWidgets('La splash lleva a la pantalla principal', (WidgetTester tester) async {
     await tester.pumpWidget(const MyApp());
 
-    // Al abrir la app se ve la pantalla de carga.
     expect(find.text('Cargando...'), findsOneWidget);
 
-    // Pasados los 2 segundos de la splash, aparece la pantalla principal.
     await tester.pump(const Duration(seconds: 3));
-    await tester.pumpAndSettle();
+    await tester.pump();
+    await tester.pump(const Duration(seconds: 1));
 
     expect(find.text('Cargando...'), findsNothing);
     expect(find.text('Pokédex'), findsOneWidget);

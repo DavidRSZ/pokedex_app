@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import '../widgets/pokemon_casilla.dart';
+import '../data/pokedex_repositorio.dart';
+import '../models/pokemon.dart';
 
 class HomeScreen extends StatelessWidget {
     const HomeScreen({super.key});
@@ -10,7 +12,7 @@ class HomeScreen extends StatelessWidget {
         final anchoPantalla = MediaQuery.of(context).size.width;
 
         return Scaffold(
-            backgroundColor: Colors.grey,
+            backgroundColor: Colors.black,
             appBar: AppBar(
                 toolbarHeight: alturaPantalla / 11,
                 backgroundColor: Colors.red.shade900,
@@ -39,13 +41,21 @@ class HomeScreen extends StatelessWidget {
                         ],
                     ),
             ),
-            body: GridView.count(
-              crossAxisCount: 6,
-              childAspectRatio: 1,
-              padding: const EdgeInsets.all(4),
-              children: List.generate(1025, (indice) {
-                return PokemonCasilla(numero: indice + 1);
-              }),
+            body: FutureBuilder<List<Pokemon>>(
+              future: PokedexRepositorio().cargarPokemon(),
+              builder: (context, snapshot) {
+                if (!snapshot.hasData) {
+                  return const Center(child: CircularProgressIndicator());
+                }
+                final pokemon = snapshot.data!;
+
+                return GridView.count(
+                  crossAxisCount: 6,
+                  childAspectRatio: 1,
+                  padding: const EdgeInsets.all(4),
+                  children: pokemon.map((p) => PokemonCasilla(pokemon: p)).toList(),
+                );
+              },
             ),
           );
     }}
