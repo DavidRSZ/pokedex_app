@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../widgets/pokemon_casilla.dart';
 
 class HomeScreen extends StatelessWidget {
     const HomeScreen({super.key});
@@ -43,19 +44,7 @@ class HomeScreen extends StatelessWidget {
               childAspectRatio: 1,
               padding: const EdgeInsets.all(4),
               children: List.generate(1025, (indice) {
-                return Container(
-                  margin: const EdgeInsets.all(3),
-                  decoration: BoxDecoration(
-                    color: Colors.white,
-                    borderRadius: BorderRadius.circular(8),
-                  ),
-                  child: Center(
-                    child: Image.asset(
-                      'assets/sprites/${indice+1}.png',
-                      filterQuality: FilterQuality.none,
-                    ),
-                    ),
-                  );
+                return PokemonCasilla(numero: indice + 1);
               }),
             ),
           );
